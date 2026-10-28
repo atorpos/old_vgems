@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="Author" content="AltaWoz Dec." />
+	<meta name="viewport" content="width=640" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9" />
+
+	<title>Vigor - send message</title>
+	<meta name="omni_page" content="Send message - Index" />
+	<meta name="Category" content="CS, vigorgems" />
+	<meta name="Description" content="Questionairs." />
+<script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css">
+<head>
+<style type="text/css">
+
+BODY {
+	background-color: #cccccc;
+}
+.quest_main {
+	background-repeat: no-repeat;
+	background-image: url(images/bg_sendquestion.png);
+	font-family: "Lucida Grande", Verdana, Arial, sans-serif;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 10px;
+	padding-top: 5px;
+	list-style-position: outside;
+	list-style-type: none;
+	color: #333333;
+	word-spacing: 2px;
+	line-height: 18px;
+	font-size: 14px;
+	width: 630px;
+	height: 340px;
+	overflow: hidden;
+}
+
+.questionairform {
+float: left;
+width: 440px;
+}
+.questionairmore{
+top: 0px;
+float: right;
+width: 190px;
+
+}
+.questionairmore li {
+	list-style-type: none;
+}
+
+.questionairform li {
+	line-height: 20px;
+	list-style-type: none;
+}
+
+.quest_main h2 {
+	word-spacing: 4px;
+	line-height: 18px;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	padding-right: 20px;
+	padding-left: 40px;
+}
+
+.quest_main p {
+	border-color: #999999;
+	border-style: none;
+	color: #999999;
+	word-spacing: 2px;
+	line-height: 15px;
+	font-size: 13px;
+	padding-right: 20px;
+	padding-left: 40px;
+}
+.questionairinput {
+	
+	color: #999999;
+	
+	border-right-width: 2px;
+	
+	border-left-width: 2px;
+	
+	border-bottom-width: 4px;
+	
+	border-top-width: 4px;
+	
+	line-height: 18px;
+	
+	font-size: 14px;
+	
+	border-color: #cccccc;
+	
+	border-style: solid;
+	
+}
+</style>
+</head>
+<body>
+<div class="quest_main">
+<h2>Reaching us</h2>
+<p>To contact us for information about our products </p><div class="questionairform">
+<form  method="get" name="form1" action="scripts/PHPMailer/smtp_send.php">
+<ul>
+	<li>
+		<label>Company Name</label><div><span id="name"><input name="name" type="text" id="name" size="40" class="questionairinput"/><span class="textfieldRequiredMsg">Please filled in.</span></span></div></li>
+	<li><label>Contact Person</label><div><span id="contact"><input name="contact" type="text" id="contact" size="40" class="questionairinput"/></span></div></li>
+	<li><label>Email</label></label><div><span id="email"><input name="email" type="text" id="email" size="40" class="questionairinput"/></span></div></li>
+	<li><label>Contact Number</label><div><span id="phone"><input name="phone" type="text" id="phone" size="40" class="questionairinput"/></span></div></li>
+	<li><input name="submit" type="submit" /></li>
+</ul>
+</div><div class="questionairmore"><ul><li><label>Comments</label><div><span><textarea  name="comment" type="text" cols="13" rows="10" id="comment" class="questionairinput"></textarea></span></div></li></ul>
+</form>
+</div>
+</div>
+<script type="text/javascript">
+var sprytextfield1 = new Spry.Widget.ValidationTextField("name");
+var sprytextfield2 = new Spry.Widget.ValidationTextField("contact");
+var sprytextfield3 = new Spry.Widget.ValidationTextField("email");
+var sprytextfield4 = new Spry.Widget.ValidationTextField("phone");
+</script>
+</body>
+</html>

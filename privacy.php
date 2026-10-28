@@ -1,0 +1,59 @@
+<?php require_once('scripts/php/php_checkbrowser.php'); $pagename="Vigor Gems and Jewelry LTD - Privacy Policy"; $filename="http://www.vigorgems.com/privacy.php";?>
+<?php
+	include('header.php');
+?>
+<div id="main"><div class="privacy_content"><img src="images/bg_policy_title.jpg" alt="Policy"><p class="privacy_title">
+Our privacy is important to Us. So we’ve written a Privacy Policy that covers how we collect, use, disclose, and store your information. Please take a moment to familiarize yourself with our privacy practices and <a href="/contact/privacy.php">let us know</a> if you have any questions.</p><h2>Collection and Use of Personal Information</h2><p>Personal information is data that can be used to uniquely identify or contact a single person or company.</p><p>You may be asked to provide your personal information anytime you are in contact with Vigor Gems and Jewelry LTD. We won’t share this personal information with other parties according to our Privacy Policy.</p>
+<p>Here are some examples of the types of personal information Vigor Gems and Jewelry LTD may collect and how we may use it.</p>
+<ul><strong>What personal information we collect</strong>
+<li>When you create an ID, apply for commercial credit, purchase a orders, download a software update, register for a mail list at any trade show, or participate in an online survey, we may collect a variety of information, including your name, company name, mailing address, phone number, email address, contact preferences, and credit card information.</li></ul>
+<ul><strong>How we use your personal information</strong>
+<li>The personal information we collect allows us to keep you posted on Vigor Gems and Jewelry LTD’s latest product announcements, and upcoming events. It also helps us to improve our services, content, and advertising. If you don’t want to be on our mailing list, you can opt out anytime by updating your preferences.</li>
+<li>We also use personal information to help us develop, deliver, and improve our products, services, content, and advertising.</li>
+<li>From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Vigor Gems and Jewelry LTD, you may not opt out of receiving these communications.</li>
+<li>We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Vigor Gems and Jewerly LTD products, services, and customer communications.</li>
+<li>If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.</li></ul>
+<h2>Cookies and Other Technologies</h2>
+<p>Vigor Gems and Jewelry LTD’s website, online services, interactive applications, email messages, and advertisements may use “cookies” and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. <p>Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.</p>
+Vigor Gems and Jewelry LTD and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: <a href="http://www.vigorgems.com/">http://www.vigorgems.com</a>. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. This opt-out applies only to Vigor Gems and Jewelry LTD advertising services and does not affect interest-based advertising from other advertising networks.</p>
+<p>Vigor Gems and Jewelry LTD and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Vigor Gems and Jewelry LTD more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Vigor Gems and Jewelry LTD Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. </p>
+<p>If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the Security pane to disable cookies.</p>
+<p>As is true of most websites, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.</p>
+<p>We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. Vigor Gems and Jewelry LTD may use this information in our marketing and advertising services.</p>
+<p>In some of our email messages, we use a “click-through URL” linked to content on the Vigor Gems and Jewelry LTD website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.</p>
+<p>Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.</p>
+<h2>Protection of Personal Information</h2>
+<p>Vigor Gems and Jewelry LTD takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.</p>
+<p>Vigor Gems and Jewelry LTD online services such as the Vigor Gems and Jewelry LTD CRM and Outlet Store use Secure Sockets Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser such as Safari, Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while it’s transmitted over the Internet.</p>
+<p>When you use some Vigor Gems and Jewelry LTD’s services, or applications or post on an Vigor Gems and Jewelry LTD forum, chat room, or social networking service, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.</p>
+<h2>Integrity and Retention of Personal Information</h2>
+<p>Vigor Gems and Jewelry LTD makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>
+<h2>Access to Personal Information</h2>
+<p>You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at <a href="https://id.vigorgems.com/">https://id.vigorgems.com</a>. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Vigor Gems and Jewelry LTD is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made through the regional Privacy Policy form.</p>
+<h2>Children</h2>
+<p>We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible.</p>
+<h2>Location-Based Services</h2>
+<p>To provide location-based services on Vigor Gems and Jewelry LTD products, Vigor Gems and Jewelry LTD and our partners and licensees may collect, use, and share precise location data on mobile app, including the real-time geographic location of your computer or device. This location data is collected anonymously in a form that does not personally identify you and is used by Vigor Gems and Jewelry LTD and our partners and licensees to provide and improve location-based products and services. For example, we may share geographic location with application providers when you opt in to their location services.</p>
+<h2>Third-Party Sites and Services</h2>
+<p>Vigor Gems and Jewelry LTD websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties − for example, Vigor Gems' app. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.</p>
+<h2>International Users</h2>
+<p>Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Vigor Gems and Jewelry LTD abides by the “safe harbor” frameworks set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected by organizations in the European Economic Area and Switzerland. Learn more about the U.S. Department of Commerce Safe Harbor Program.</p>
+<h2>Our Companywide Commitment to Your Privacy</h2>
+<p>To make sure your personal information is secure, we communicate our privacy and security guidelines to Vigor Gems and Jewelry LTD employees and strictly enforce privacy safeguards within the company.</p>
+<h2>Privacy Questions</h2>
+<p>If you have any questions or concerns about Vigor Gems and Jewelry LTD’s Privacy Policy or data processing, please <a href="/contact/privacy.php">contact us.</a> </p>
+</div>
+<div id="privacy_sidebar">
+<div id="sidebar_info">
+<p><STRONG>Privacy Question</STRONG>
+<br>Questions about our privacy policy?
+<br>Contact US </p>
+</div>
+</div>
+</div>
+
+<?php
+	include('int_footer.php');
+?>
+</body>
+</html>

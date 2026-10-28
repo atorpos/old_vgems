@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<stones>
+<stone>
+		<name>AG</name>
+       <description>SILVER</description>
+		<image>/images/stone/ag.gif</image>
+</stone>
+<stone>
+		<name>AGB</name>
+       <description>Agate Blue</description>
+		<image>/images/stone/agb.gif</image>
+</stone>
+<stone>
+		<name>AGF</name>
+       <description>Agate/ Jasper Fancy</description>
+		<image>/images/stone/agf.gif</image>
+</stone>
+<stone>
+		<name>AGG</name>
+       <description>Agate-Green</description>
+		<image>/images/stone/agg.gif</image>
+</stone>
+<stone>
+		<name>AGK</name>
+       <description>Agate Black</description>
+		<image>/images/stone/agk.gif</image>
+</stone>
+<stone>
+		<name>AGL</name>
+       <description>Agate-lavender</description>
+		<image>/images/stone/agl.gif</image>
+</stone>
+<stone>
+		<name>AGM</name>
+       <description>Agate-Moss</description>
+		<image>/images/stone/agm.gif</image>
+</stone>
+<stone>
+		<name>AGP</name>
+       <description>Agate Pink</description>
+		<image>/images/stone/agp.gif</image>
+</stone>
+<stone>
+		<name>AGR</name>
+       <description>Agate-Red (Red Carnelian)</description>
+		<image>/images/stone/agr.gif</image>
+</stone>
+<stone>
+		<name>AGS</name>
+       <description>Agate Botswan</description>
+		<image>/images/stone/ags.gif</image>
+</stone>
+<stone>
+		<name>AMB</name>
+       <description>Amethyst</description>
+		<image>/images/stone/amb.gif</image>
+</stone>
+<stone>
+		<name>AML</name>
+       <description>Amythyst-Lavender</description>
+		<image>/images/stone/aml.gif</image>
+</stone>
+<stone>
+		<name>AMY</name>
+       <description>Amethyst</description>
+		<image>/images/stone/amy.gif</image>
+</stone>
+<stone>
+		<name>AMZ</name>
+       <description>Amazonite</description>
+		<image>/images/stone/amz.gif</image>
+</stone>
+<stone>
+		<name>AU</name>
+       <description>GOLD</description>
+		<image>/images/stone/au.gif</image>
+</stone>
+<stone>
+		<name>AVG</name>
+       <description>Aventurine-Green</description>
+		<image>/images/stone/avg.gif</image>
+</stone>
+<stone>
+		<name>AVR</name>
+       <description>Aventurine-Red</description>
+		<image>/images/stone/avr.gif</image>
+</stone>
+<stone>
+		<name>BCY</name>
+       <description>Crystal dyed blue</description>
+		<image>/images/stone/bcy.gif</image>
+</stone>
+<stone>
+		<name>BDS</name>
+       <description>Blood Stone</description>
+		<image>/images/stone/bds.gif</image>
+</stone>
+<stone>
+		<name>BKS</name>
+       <description>Black Stone</description>
+		<image>/images/stone/bks.gif</image>
+</stone>
+<stone>
+		<name>BLA</name>
+       <description>Blue Lace Agate</description>
+		<image>/images/stone/bla.gif</image>
+</stone>
+<stone>
+		<name>BRO</name>
+       <description>Bronzite</description>
+		<image>/images/stone/bro.gif</image>
+</stone>
+<stone>
+		<name>BTY</name>
+       <description>Tiger Eye Blue</description>
+		<image>/images/stone/bty.gif</image>
+</stone>
+<stone>
+		<name>CAL</name>
+       <description>Calcite - Yellow Jade</description>
+		<image>/images/stone/cal.gif</image>
+</stone>
+<stone>
+		<name>CAR</name>
+       <description>Carnelian-Nat</description>
+		<image>/images/stone/car.gif</image>
+</stone>
+<stone>
+		<name>CAT</name>
+       <description>Cat eye-Syn</description>
+		<image>/images/stone/cat.gif</image>
+</stone>
+<stone>
+		<name>CCD</name>
+       <description>Chalcedony</description>
+		<image>/images/stone/ccd.gif</image>
+</stone>
+<stone>
+		<name>CIH</name>
+       <description>Citrine-Hydr</description>
+		<image>/images/stone/cih.gif</image>
+</stone>
+<stone>
+		<name>CIT</name>
+       <description>Citrine</description>
+		<image>/images/stone/cit.gif</image>
+</stone>
+<stone>
+		<name>COR</name>
+       <description>Coral-Dyed Bamboo</description>
+		<image>/images/stone/cor.gif</image>
+</stone>
+<stone>
+		<name>CRH</name>
+       <description>Crystal H.</description>
+		<image>/images/stone/crh.gif</image>
+</stone>
+<stone>
+		<name>CRS</name>
+       <description>Coral-Sponge</description>
+		<image>/images/stone/crs.gif</image>
+</stone>
+<stone>
+		<name>CRY</name>
+       <description>Crystal</description>
+		<image>/images/stone/cry.gif</image>
+</stone>
+<stone>
+		<name>CU</name>
+       <description>COPPER</description>
+		<image>/images/stone/cu.gif</image>
+</stone>
+<stone>
+		<name>DHW</name>
+       <description>Dyed Howlite</description>
+		<image>/images/stone/dhw.gif</image>
+</stone>
+<stone>
+		<name>DUM</name>
+       <description>Dumortierite</description>
+		<image>/images/stone/dum.gif</image>
+</stone>
+<stone>
+		<name>FLR</name>
+       <description>Fluorite-Rainbow</description>
+		<image>/images/stone/flr.gif</image>
+</stone>
+<stone>
+		<name>FLU</name>
+       <description>Fluorite</description>
+		<image>/images/stone/flu.gif</image>
+</stone>
+<stone>
+		<name>FWS</name>
+       <description>Fresh Water Shell</description>
+		<image>/images/stone/fws.gif</image>
+</stone>
+<stone>
+		<name>GAN</name>
+       <description>Garnet</description>
+		<image>/images/stone/gan.gif</image>
+</stone>
+<stone>
+		<name>GDB</name>
+       <description>Golden Sandstone-Blue</description>
+		<image>/images/stone/gdb.gif</image>
+</stone>
+<stone>
+		<name>GDS</name>
+       <description>Gloden Sandstone</description>
+		<image>/images/stone/gds.gif</image>
+</stone>
+<stone>
+		<name>GLS</name>
+       <description>Green Lace Stone</description>
+		<image>/images/stone/gls.gif</image>
+</stone>
+<stone>
+		<name>HEM</name>
+       <description>Hematite</description>
+		<image>/images/stone/hem.gif</image>
+</stone>
+<stone>
+		<name>HOW</name>
+       <description>Howlite-White</description>
+		<image>/images/stone/how.gif</image>
+</stone>
+<stone>
+		<name>JAF</name>
+       <description>Jade-Africa</description>
+		<image>/images/stone/jaf.gif</image>
+</stone>
+<stone>
+		<name>JBC</name>
+       <description>Jadeite B+C</description>
+		<image>/images/stone/jbc.gif</image>
+</stone>
+<stone>
+		<name>JCN</name>
+       <description>Jade-South CHN Jade</description>
+		<image>/images/stone/jcn.gif</image>
+</stone>
+<stone>
+		<name>JDK</name>
+       <description>Jade-Korea</description>
+		<image>/images/stone/jdk.gif</image>
+</stone>
+<stone>
+		<name>JHS</name>
+       <description>Jade-Hua Show</description>
+		<image>/images/stone/jhs.gif</image>
+</stone>
+<stone>
+		<name>JLM</name>
+       <description>New Jade Lemon</description>
+		<image>/images/stone/jlm.gif</image>
+</stone>
+<stone>
+		<name>JNW</name>
+       <description>New Jade</description>
+		<image>/images/stone/jnw.gif</image>
+</stone>
+<stone>
+		<name>JQH</name>
+       <description>Jade-Qinghai</description>
+		<image>/images/stone/jqh.gif</image>
+</stone>
+<stone>
+		<name>JXJ</name>
+       <description>Jade-Xinjiang</description>
+		<image>/images/stone/jxj.gif</image>
+</stone>
+<stone>
+		<name>LAB</name>
+       <description>Labradourite</description>
+		<image>/images/stone/lab.gif</image>
+</stone>
+<stone>
+		<name>LAP</name>
+       <description>Lapis</description>
+		<image>/images/stone/lap.gif</image>
+</stone>
+<stone>
+		<name>LEP</name>
+       <description>Lepidolite</description>
+		<image>/images/stone/lep.gif</image>
+</stone>
+<stone>
+		<name>LPM</name>
+       <description>Lapis Im</description>
+		<image>/images/stone/lpm.gif</image>
+</stone>
+<stone>
+		<name>MAL</name>
+       <description>Malachite AB</description>
+		<image>/images/stone/mal.gif</image>
+</stone>
+<stone>
+		<name>MNS</name>
+       <description>Moonstone</description>
+		<image>/images/stone/mns.gif</image>
+</stone>
+<stone>
+		<name>MOP</name>
+       <description>M.O.P.</description>
+		<image>/images/stone/mop.gif</image>
+</stone>
+<stone>
+		<name>MTY</name>
+       <description>Tiger Eye-yellow+blue</description>
+		<image>/images/stone/mty.gif</image>
+</stone>
+<stone>
+		<name>NEA</name>
+       <description>Nephrite A</description>
+		<image>/images/stone/nea.gif</image>
+</stone>
+<stone>
+		<name>NEC</name>
+       <description>Nephrite-CHN</description>
+		<image>/images/stone/nec.gif</image>
+</stone>
+<stone>
+		<name>OBK</name>
+       <description>Obsidant-Black</description>
+		<image>/images/stone/obk.gif</image>
+</stone>
+<stone>
+		<name>OBS</name>
+       <description>Obsidiant Snow Flake</description>
+		<image>/images/stone/obs.gif</image>
+</stone>
+<stone>
+		<name>ONB</name>
+       <description>Onyx Black</description>
+		<image>/images/stone/onb.gif</image>
+</stone>
+<stone>
+		<name>ONW</name>
+       <description>Onyx White</description>
+		<image>/images/stone/onw.gif</image>
+</stone>
+<stone>
+		<name>PAR</name>
+       <description>Jasper-Artistic</description>
+		<image>/images/stone/par.gif</image>
+</stone>
+<stone>
+		<name>PBL</name>
+       <description>Jasper-Black Line</description>
+		<image>/images/stone/pbl.gif</image>
+</stone>
+<stone>
+		<name>PBR</name>
+       <description>Jasper-Breciated</description>
+		<image>/images/stone/pbr.gif</image>
+</stone>
+<stone>
+		<name>PBU</name>
+       <description>Jasper Butter</description>
+		<image>/images/stone/pbu.gif</image>
+</stone>
+<stone>
+		<name>PDA</name>
+       <description>Jasper-Dalmatine</description>
+		<image>/images/stone/pda.gif</image>
+</stone>
+<stone>
+		<name>PDB</name>
+       <description>Dragon Blood Stone</description>
+		<image>/images/stone/pdb.gif</image>
+</stone>
+<stone>
+		<name>PER</name>
+       <description>Peridot</description>
+		<image>/images/stone/per.gif</image>
+</stone>
+<stone>
+		<name>PGT</name>
+       <description>Jasper-Yellow Turquoise</description>
+		<image>/images/stone/pgt.gif</image>
+</stone>
+<stone>
+		<name>PLE</name>
+       <description>Jasper-Leopard Skin</description>
+		<image>/images/stone/ple.gif</image>
+</stone>
+<stone>
+		<name>PLL</name>
+       <description>Jasper - Lilac</description>
+		<image>/images/stone/pll.gif</image>
+</stone>
+<stone>
+		<name>PMK</name>
+       <description>Jasper-Mookaite</description>
+		<image>/images/stone/pmk.gif</image>
+</stone>
+<stone>
+		<name>POC</name>
+       <description>Jasper-Ocean</description>
+		<image>/images/stone/poc.gif</image>
+</stone>
+<stone>
+		<name>PPC</name>
+       <description>Jasper-Picasso</description>
+		<image>/images/stone/ppc.gif</image>
+</stone>
+<stone>
+		<name>PPI</name>
+       <description>Jasper-Picture</description>
+		<image>/images/stone/ppi.gif</image>
+</stone>
+<stone>
+		<name>PPS</name>
+       <description>Peach Stone</description>
+		<image>/images/stone/pps.gif</image>
+</stone>
+<stone>
+		<name>PRD</name>
+       <description>Jasper-Red</description>
+		<image>/images/stone/prd.gif</image>
+</stone>
+<stone>
+		<name>PRP</name>
+       <description>Jasper-Red Picture</description>
+		<image>/images/stone/prp.gif</image>
+</stone>
+<stone>
+		<name>PRW</name>
+       <description>Jasper-Rainbow</description>
+		<image>/images/stone/prw.gif</image>
+</stone>
+<stone>
+		<name>PRY</name>
+       <description>Jasper-Rhyolite</description>
+		<image>/images/stone/pry.gif</image>
+</stone>
+<stone>
+		<name>PYT</name>
+       <description>Jasper-B. Yellow Turquoise</description>
+		<image>/images/stone/pyt.gif</image>
+</stone>
+<stone>
+		<name>PZB</name>
+       <description>Jasper-Zebra</description>
+		<image>/images/stone/pzb.gif</image>
+</stone>
+<stone>
+		<name>QCY</name>
+       <description>Crystal dyed aqua blue</description>
+		<image>/images/stone/qcy.gif</image>
+</stone>
+<stone>
+		<name>QRU</name>
+       <description>Rutilated Quartz</description>
+		<image>/images/stone/qru.gif</image>
+</stone>
+<stone>
+		<name>QZG</name>
+       <description>Quartz-Green</description>
+		<image>/images/stone/qzg.gif</image>
+</stone>
+<stone>
+		<name>QZL</name>
+       <description>Quartz-Lemon</description>
+		<image>/images/stone/qzl.gif</image>
+</stone>
+<stone>
+		<name>QZO</name>
+       <description>Quartz Olive</description>
+		<image>/images/stone/qzo.gif</image>
+</stone>
+<stone>
+		<name>QZR</name>
+       <description>Rose Quartz</description>
+		<image>/images/stone/qzr.gif</image>
+</stone>
+<stone>
+		<name>QZS</name>
+       <description>Smoky Quartz</description>
+		<image>/images/stone/qzs.gif</image>
+</stone>
+<stone>
+		<name>QZW</name>
+       <description>Quartz White</description>
+		<image>/images/stone/qzw.gif</image>
+</stone>
+<stone>
+		<name>RHD</name>
+       <description>Rhodochosite</description>
+		<image>/images/stone/rhd.gif</image>
+</stone>
+<stone>
+		<name>RHO</name>
+       <description>Rhodonite</description>
+		<image>/images/stone/rho.gif</image>
+</stone>
+<stone>
+		<name>RTY</name>
+       <description>Tiger Eye Red</description>
+		<image>/images/stone/rty.gif</image>
+</stone>
+<stone>
+		<name>S7M</name>
+       <description>7 stone</description>
+		<image>/images/stone/s7m.gif</image>
+</stone>
+<stone>
+		<name>SOD</name>
+       <description>Sodalite</description>
+		<image>/images/stone/sod.gif</image>
+</stone>
+<stone>
+		<name>SST</name>
+       <description>Studded Star</description>
+		<image>/images/stone/sst.gif</image>
+</stone>
+<stone>
+		<name>SUN</name>
+       <description>Sunstone AFN</description>
+		<image>/images/stone/sun.gif</image>
+</stone>
+<stone>
+		<name>SWL</name>
+       <description>White Shell</description>
+		<image>/images/stone/swl.gif</image>
+</stone>
+<stone>
+		<name>TLE</name>
+       <description>Tourmaline</description>
+		<image>/images/stone/tle.gif</image>
+</stone>
+<stone>
+		<name>TQI</name>
+       <description>Tourmaline-Im</description>
+		<image>/images/stone/tqi.gif</image>
+</stone>
+<stone>
+		<name>TQN</name>
+       <description>Turquoise</description>
+		<image>/images/stone/tqn.gif</image>
+</stone>
+<stone>
+		<name>TQS</name>
+       <description>Turquoise-Stabilize</description>
+		<image>/images/stone/tqs.gif</image>
+</stone>
+<stone>
+		<name>TYE</name>
+       <description>Tiger Eye</description>
+		<image>/images/stone/tye.gif</image>
+</stone>
+<stone>
+		<name>UKE</name>
+       <description>Unakite</description>
+		<image>/images/stone/uke.gif</image>
+</stone>
+<stone>
+		<name>ZCA</name>
+       <description>Crazy Crystal Dyed Aqua</description>
+		<image>/images/stone/zca.gif</image>
+</stone>
+<stone>
+		<name>ZCG</name>
+       <description>Crazy Crystal Green</description>
+		<image>/images/stone/zcg.gif</image>
+</stone>
+<stone>
+		<name>ZCY</name>
+       <description>Crazy Crystal</description>
+		<image>/images/stone/zcy.gif</image>
+</stone>
+<stone>
+		<name>ZML</name>
+       <description>Azurite Malachite</description>
+		<image>/images/stone/zml.gif</image>
+</stone>
+</stones>

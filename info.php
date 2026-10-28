@@ -1,0 +1,8 @@
+<?php require_once('Connections/external.php'); ?><?php require_once('Connections/stockcode.php'); $pagename="Jewelry Products";$sidebarname = $pagename;?>
+
+<?php include('header.php'); ?>
+<div id="main" align="center"><div id="submaintitle" align="left"><img src="images/bg_title_info.png" /></div>
+<div id="submain"><table border="0" cellpadding="0" cellspacing="0" width="900px"><tr><td><ul><li></li><h2>Address:</h2><li>Room 24, 6/F, BlockB, Focal Ind. Centre,<br />21 Man Lok Street, Hunghom,<br />Kowloon, Hong Kong</li><h2>Phone Number:</h2><li>+852-23562083</li><!-- <h2>Fax Number:</h2><li>+852-23059078</li>--><h2>Email:</h2><li><a href="mailto:vigorgem@vigorgems.com">vigorgem@vigorgems.com</a></td><td><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=vigor+gems&amp;sll=22.24786,114.203384&amp;sspn=0.222435,0.445976&amp;ie=UTF8&amp;cd=1&amp;hq=vigor+gems&amp;hnear=&amp;ll=22.310362,114.189821&amp;spn=0.0134,0.027874&amp;z=14&amp;iwloc=A&amp;cid=11156732773998742906&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=vigor+gems&amp;sll=22.24786,114.203384&amp;sspn=0.222435,0.445976&amp;ie=UTF8&amp;cd=1&amp;hq=vigor+gems&amp;hnear=&amp;ll=22.310362,114.189821&amp;spn=0.0134,0.027874&amp;z=14&amp;iwloc=A&amp;cid=11156732773998742906" style="color:#0000FF;text-align:left">View Larger Map</a></small></td></tr></table></div><div id="submainfoot"></div></div></div>
+<?php include('int_footer.php');?>
+</body>
+</html>

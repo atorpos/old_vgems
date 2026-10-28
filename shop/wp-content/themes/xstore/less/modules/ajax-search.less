@@ -1,0 +1,196 @@
+/*===================================
+=            AJAX Search            =
+===================================*/
+
+.ajax-results-wrapper {
+	position: relative;
+	top:100%;
+	left: 0;
+	right: 0;
+}
+
+.ajax-results {
+	text-align: left;
+	overflow: hidden;
+	background: #fff;
+	display: none;
+	border-top:1px solid #e6e6e6;
+	.empty-category-block{
+		padding-top: 0;
+		margin-bottom: 3em;
+		&:before{
+			display: none;
+		}
+	}
+	&:empty {
+		border: none;
+	}
+}
+
+.product-ajax-list {
+	float: left;
+	display: block;
+	overflow: hidden;
+	width: 50%;
+	margin-bottom: 0;
+
+	li {
+		padding: 1.43em;
+		list-style-type: none;
+		float: left;
+		display: block;
+		width: 50%;
+		border-bottom: 1px solid @borderColor;
+		border-right: 1px solid @borderColor;
+		&:nth-child(2n+2) {
+			clear: both; 
+		}
+	}
+
+	.product-list-image {
+		float: left;
+		display: block;
+	}
+
+	img {
+		max-width: 4.55rem;
+		margin-right: 20px;
+	}
+
+	.product-title {
+		display: block;
+		font-size: 0.9rem !important;
+		line-height: 1.5;
+		margin-bottom: 0;
+		a{
+			text-transform: uppercase;
+			font-weight:bold;
+		}
+	}
+}
+.product-ajax-list,
+.posts-ajax-list{
+	ul{
+		display: inline-block;
+		width: 100%;
+	}
+}
+.product-ajax-list li{
+	min-height: 134px;
+}
+.posts-ajax-list {
+	float: left;
+	display: block;
+	overflow: hidden;
+	width: 50%;
+	margin-bottom: 0;
+	li {
+		padding: 1.43em;
+		list-style-type: none;
+		float: left;
+		display: block;
+		width: 50%;
+		min-height: 134px;
+		border-bottom: 1px solid @borderColor;
+		border-right: 1px solid @borderColor;
+	}
+	.post-title{
+		margin-bottom: 0;
+	    text-transform: uppercase;
+	    font-size: 0.9rem;
+    	line-height: 1.5;
+    	a{
+    		font-weight: bold;
+    	}
+	}
+	.post-list-image {
+		float: left;
+		display: block;
+	}
+	img {
+		max-width: 5.0rem;
+		margin-right: 20px;
+		margin-bottom: 10px;
+	}
+	h4 {
+		display: block;
+		font-size: 1rem;
+		a{
+			text-transform: uppercase;
+		}
+	}
+}
+
+.product-results-on{
+	.product-ajax-list{
+		width: 100%;
+		ul{
+			li{
+				width: 33.33%;
+				&:nth-child(3n+1){
+					clear: both;
+				}
+				&:nth-child(2n+1){
+					clear: none;
+				}				
+			}
+		}
+	}
+}
+
+.post-results-on{
+	.posts-ajax-list{
+		width: 100%;
+		ul{
+			li{
+				width: 33.33%;
+				min-height: 105px;
+				&:nth-child(3n+1){
+					clear: both;
+				}
+				&:nth-child(2n+1){
+					clear: none;
+				}				
+			}
+		}
+	}
+}
+
+.search-results-title {
+	padding: 1.43em;
+	
+	border-bottom: 1px solid @borderColor;
+	border-right: 1px solid @borderColor;
+	font-size: 1.14rem;
+	text-transform: uppercase;
+	margin-bottom: 0;
+	font-weight: @bolder;
+	overflow: hidden;
+	a {
+		float: right;
+		font-weight: normal;
+		text-transform: uppercase;
+		font-size:0.9rem;
+		font-weight:bold;
+	}
+}
+
+.header-search.act-default{
+	.ajax-results-wrapper{
+		position: absolute;
+		z-index: 101;
+	}
+}
+
+.search-form-wrapper{
+	div.fancy-select ul.options{
+		z-index: 102;
+	}
+}
+
+@media only screen and (max-width:991px){
+	.ajax-results-wrapper{
+		display: none !important;
+	}
+}
+/*=====  End of AJAX Search  ======*/

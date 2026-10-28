@@ -1,0 +1,83 @@
+.privacy_content {
+	word-spacing: 4px;
+	line-height: 14px;
+	font: 12px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #4c4c4c;
+	text-align: left;
+	padding: 15px 5px 15px 10px;
+	width: 600px;
+	margin: 0 10px;
+}
+.privacy_content .privacy_title {
+	text-align: justify;
+	font-variant: normal;
+	color: gray;
+	font: 16px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+.privacy_content li {
+	padding-bottom: 5px;
+	list-style-position: outside;
+	list-style-type: disc;
+}
+#main #privacy_sidebar {
+	padding-left: 20px;
+	padding-top: 30px;
+	top: 0px;
+	position: absolute;
+	left: 640px;
+	width: 222px;
+}
+.faq_content {
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 600px;
+	color: #434343;
+	text-align: left;
+	word-spacing: 4px;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+.faq_content li {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	border-bottom-width: 1px;
+	border-bottom-color: #626262;
+	border-bottom-style: dashed;
+	color: black;
+	list-style-position: outside;
+	list-style-type: disc;
+}
+.faq_content .faq_title {
+	border-bottom-color: #c5c5c5;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	padding-bottom: 10px;
+	text-align: center;
+	font-style: normal;
+	letter-spacing: 2px;
+	line-height: 20px;
+	font-weight: normal;
+	font-size: 18px;
+}
+#privacy_sidebar #sidebar_info {
+	height: 252px;
+	width: 100%;
+	background-image: url(/images/bg_sidebar.jpg);
+}
+#sidebar_info p {
+	font-size: 14px;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	text-align: left;
+	line-height: 20px;
+	padding-right: 13px;
+	padding-left: 13px;
+	padding-bottom: 5px;
+	padding-top: 10px;
+}

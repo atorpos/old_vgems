@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailPreset</key>
+	<string>e903b99a4f66d969e491a060fb4f28ed</string>
+	<key>detailSize</key>
+	<string>{550, -1}</string>
+	<key>images</key>
+	<dict>
+		<key>3uqD5nY9Rnq1ONC3y1xWXA</key>
+		<dict>
+			<key>index</key>
+			<integer>3</integer>
+			<key>modDate</key>
+			<date>2011-09-07T07:18:03Z</date>
+		</dict>
+		<key>G579AbJOT3a4%3n9GJbANg</key>
+		<dict>
+			<key>index</key>
+			<integer>1</integer>
+			<key>modDate</key>
+			<date>2011-08-24T03:20:35Z</date>
+		</dict>
+		<key>KQojhm7tRAmOmvjte1FuoQ</key>
+		<dict>
+			<key>index</key>
+			<integer>5</integer>
+			<key>modDate</key>
+			<date>2011-08-24T03:28:37Z</date>
+		</dict>
+		<key>PG0kl5M3TNiR73UaYPSaIQ</key>
+		<dict>
+			<key>index</key>
+			<integer>6</integer>
+			<key>modDate</key>
+			<date>2011-08-24T03:29:11Z</date>
+		</dict>
+		<key>S3yIJKNpRTyO0lgfaDYt0g</key>
+		<dict>
+			<key>index</key>
+			<integer>2</integer>
+			<key>modDate</key>
+			<date>2011-08-24T03:24:02Z</date>
+		</dict>
+		<key>jsIple1jQgqFmpP+b4Hobw</key>
+		<dict>
+			<key>index</key>
+			<integer>7</integer>
+			<key>modDate</key>
+			<date>2011-08-24T04:02:30Z</date>
+		</dict>
+		<key>wGnOB0P7QV67w6Mt5zaOKA</key>
+		<dict>
+			<key>index</key>
+			<integer>8</integer>
+			<key>modDate</key>
+			<date>2012-07-13T10:59:16Z</date>
+		</dict>
+		<key>wv1zyUcCTVKKrLrnxFTM9A</key>
+		<dict>
+			<key>index</key>
+			<integer>4</integer>
+			<key>modDate</key>
+			<date>2012-06-21T07:58:23Z</date>
+		</dict>
+	</dict>
+	<key>thumbPreset</key>
+	<string>9febe6c7f42ea4b8908768ced100bcdf</string>
+	<key>thumbSize</key>
+	<string>{260, -1}</string>
+	<key>version</key>
+	<integer>200</integer>
+</dict>
+</plist>

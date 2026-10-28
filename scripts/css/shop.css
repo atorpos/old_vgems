@@ -1,0 +1,169 @@
+#fastrack {
+	width: 200px;
+	height: 200px;
+	padding: 5px;
+	overflow: hidden;
+}
+#dlist {
+	width: 3700px;
+	height: 119px;
+	margin: 0; padding: 0;
+}
+#dlist li {
+	display: inline;
+	list-style-type: none;
+}
+#dlist li img {
+	max-height: 120px;
+	max-width: 150px;
+	padding: 2px;
+}
+#main #outlettop {
+	color: #FFFFFF;
+	font: 14px/20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	background-color: #333333;
+	padding: 5px;
+}
+#main #outlettop li{
+	display: inline;
+	list-style-type: none;
+	list-style-position: outside;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-transform: uppercase;
+}
+#main #rightcontents ul {
+	
+	font: normal 16px/20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+	margin-left: 10px;
+}
+#main #rightcontents li {
+	
+	list-style-type: none;
+	line-height: 30px;
+	
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	
+}
+#main #rightcontents li a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+#main #rightcontents li a:hover {
+	font-weight: bold;
+	font-style: italic;
+}
+#main #cart {
+	background-color: #272727;
+	color: #ffffff;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+#main #cart ul {
+	text-transform: uppercase;
+	font: normal 16px/20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+	margin-left: 10px;
+}
+#main #cart li {
+	
+	list-style-type: none;
+	line-height: 30px;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	
+}
+#main #shopnav {
+	
+	width: 690px;
+	padding: 10px 30px;
+	color: #4e4e4e;
+	font: 11px/22px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+#main #carttitle {
+	background: url(../../images/bg_cart_hairline.gif) repeat-x;
+	height: 30px;
+	width: 690px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#main #cartdetail {
+	width: 690px;
+	margin: 20px auto;
+}
+#main #product {
+	width: 690px;
+	margin: 20px auto;
+	z-index: 1;
+}
+#productsq {
+	width: 210px;
+	padding: 10px 10px;
+	font: 10px/15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	vertical-align: 0;
+	text-align: left;
+}
+#productsq #moreinfobuy {
+	background-color: silver;
+	padding-left: 10px;
+	max-width: 160px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+#productsq img {
+	max-width: 160px;
+	max-height: 160px;
+	border-style: none;
+	border-width: 0;
+	padding: 10px 20px 10px 0;
+}
+#main #login td{
+	padding: 5px;
+	line-height: 18px;
+	border-right: 1px solid #006600;
+	border-left: 1px solid #006600;
+	border-bottom: 1px solid #006600;
+}
+#main #login td img {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#main #login #formlable {
+	font: 11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: black;
+}
+#main #login #formdescp {
+	color: gray;
+	font: 11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+#main #billdiv {
+	padding: 5px 10px 5px 5px;
+}
+#main #shipdiv {
+	padding: 5px 5px 5px 10px;
+}
+#main #billdiv #formlable {
+	font: 11px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: black;
+	}
+#main #shipdiv #formlable {
+	font: 11px/18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: black;
+	}
+
+#main #top-buttons {
+	padding: 10px 20px 5px 10px;
+}
+#main #top-buttons img {
+	padding: 5px 10px;
+}
+
+#main #shoppingcart td {
+	padding: 5px;
+}

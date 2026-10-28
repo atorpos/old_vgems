@@ -1,0 +1,146 @@
+<?php
+	$pagename = "Saddle Bracelet";
+$productname = "Saddle Bracelet";
+?>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Vigor Gems and Jewelry LTD - Saddle Bracelet with Personalize metal</title>
+		<link rel="stylesheet" href="/scripts/javascript/galleriffic/css/special_basic.css" type="text/css" />
+		<link rel="stylesheet" href="/scripts/javascript/galleriffic/css/galleriffic-2.css" type="text/css" />
+		<script type="text/javascript" src="/scripts/javascript/galleriffic/js/jquery-2.0.0.min.js"></script>
+		<script type="text/javascript" src="/scripts/javascript/galleriffic/js/jquery.galleriffic.js"></script>
+		<script type="text/javascript" src="/scripts/javascript/galleriffic/js/jquery.opacityrollover.js"></script>
+		<script type="text/javascript" src="/scripts/javascript/galleriffic/js/custom.js"></script>
+		<!--<script type="text/javascript" src="/scripts/javascript/jquery/jquery-1.4.2.js"></script>-->
+		<script src="/scripts/javascript/modernizr.custom.28809.js"></script>
+		<script src="/scripts/javascript/retina.js"></script>
+		<link rel="stylesheet" media="all" type="text/css" href="/scripts/css/details.css"><link rel="stylesheet" href="/scripts/css/global_header.css" type="text/css" />
+		<!-- We only want the thunbnails to display when javascript is disabled -->
+		<script type="text/javascript">
+			document.write('<style>.noscript { display: none; }</style>');
+		</script>
+		<script type='text/javascript'>//<![CDATA[ 
+$(window).load(function(){
+$("a").hover(function(e) {
+    $($(this).data("tooltip")).css({
+        left: e.pageX + 1,
+        top: e.pageY + 1
+    }).stop().show(100);
+}, function() {
+    $($(this).data("tooltip")).hide();
+});
+
+});//]]>  
+
+</script>
+	</head>
+	<body>
+		<div id="header">
+	<div id="staticbar">
+		<div id="logoholder">
+			<a href="/"><img src="/images/header_logo@2x.png" alt="vigor gems and jewelry ltd" width="450" height="64"/></a>
+		</div>
+		<div id="searchholder">
+			<ul id="headnav">
+				
+				<li>Hi,<span style="font-weight:bold"> 
+					<?php
+						if (!isset($_SESSION['MM_Username'])) { 
+							echo "Guest ";
+						} else {
+							$colname_Recordset1 = $_SESSION['MM_Username'];
+							echo "<a href=\"/crm/\">" .$colname_Recordset1 ."</a>";
+						}
+					?>
+				</span> </li>
+				<li class="press"><a href="/news/">Press</a></li>
+				<!-- <li class="miscnav">Register</li> -->
+				<li class="miscnav">
+				<?php
+				
+				if (!isset($_SESSION['MM_Username'])) { 
+					echo "<a href=\"https://www.vigorgems.com/signin.awz\">Log in</a>";
+					
+				} else {
+					echo "<a href=\"https://www.vigorgems.com/scripts/php/php_logout.php\">Log out</a>";
+				}
+					
+				?>
+				</li>
+				<li class="miscnav"><a href="//t2.phplivesupport.com/atropos/phplive.php?d=1" target="new"><img src="//t2.phplivesupport.com/atropos/ajax/image.php?d=1" border="0" align="middle" alt="livehelp"/> Live help</a>
+					<div id="d3" style="display:none;">
+						<div style="background-color:#ffffff;width:650px;border:1px solid gray;padding:1px;z-index:10000;">
+							<iframe src="/sendquestion.html" style="border:none; width:650px; height:375px; z-index:10001;"></iframe>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+<div id="navigation">
+	<ul id="mymenu">
+		<li><a href="/index.php" onmouseover="javascript:showsubmenu(1)">HOME</a></li>
+    	<li><a href="/jewelry.php" onmouseover="javascript:showsubmenu(2)">JEWELRY</a></li>
+    	<li><a href="/stone.php" onmouseover="javascript:showsubmenu(6)">SEMI-FINISHED ITEM</a></li>
+	
+    	<li><a href="/collection.php" onmouseover="javascript:showsubmenu(8)">COLLECTIONS</a></li>
+    	<li><a href="/exhibitions/" onmouseover="javascript:showsubmenu(3)">EXHIBITION</a></li>
+    	<li><a href="/factory/responsibility.php#factory" onmouseover="javascript:showsubmenu(4)">OUR FACTORY</a></li>
+    	<li><a href="/care.php" onmouseover="javascript:showsubmenu(5)">CUSTOMER SERVICE</a></li>
+		<li><a href="/info.php" onmouseover="javascript:showsubmenu(7)">COMPANY INFO</a></li>
+	</ul>
+</div>
+<div id="sublinks">
+	<ul id="s1">
+        <li></li>
+    </ul>
+	<ul id="s6">
+        <li><a href="/beads">BEADS</a></li>
+        <li><a href="/cabochon">CABOCHON</a></li>     
+        
+    </ul>
+    <ul id="s2">
+        <li><a href="/accessory">ACCESSORY</a></li><li><a href="/bracelet">BRACELET</a></li> <li><a href="/earring">EARRING</a></li><li><a href="/necklet">NECKLET</a></li><li><a href="/ring">RING</a></li>
+    </ul>
+    <ul id="s3">
+        <li><a href="/exhibitions">GENERAL INFO.</a></li>
+        <li><a href="/exhibitions/spring.php">SPRING</a></li>
+        <li><a href="/exhibitions/summer.php">SUMMER</a></li>
+        <li><a href="/exhibitions/fall.php">FALL</a></li>
+        <li><a href="/exhibitions/oversea.php">OVER SEA</a></li>
+    </ul>
+     <ul id="s4">
+        <li><a href="/factory/location.php">LOCATION</a></li>
+    </ul>
+    <ul id="s5">
+        <li><a href="/customer/status.php">CHECK YOUR STATUS</a></li><li><a href="/customer/mapp.php">MAKE AN APPOINTMENT</a></li><li><a href="/custmoer/interact.php">ORDER OUR PRODUCT</a></li>
+    </ul>
+    <ul id="s7">
+        <li><a href="/aboutus.php">ABOUT US</a></li><li><a href="/jobs.php">JOBS</a></li><li><a href="/pressbox.php">PRESS BOX</a></li>
+    </ul>
+    <ul id="s8">
+        <li><a href="/carving">CARVING</a></li><li><a href="/globe">GLOBE</a></li>
+    </ul>
+    
+</div>
+</div>
+	<div id="section_menu">
+				<ul id="nav">
+					<li id="beads"><a href="beads.awz">Beads</a></li>
+					<li id="bracelets"><a href="bracelets.awz">Bracelets</a></li>
+					<li id="necklaces"><a href="necklaces.awz">Necklaces</a></li>
+					<li id="rings"><a href="rings.awz">Rings</a></li>
+				</ul>
+			</div>
+	<div id="main">
+		<div id="page">
+			
+			<div id="container">
+			</div>
+		</div>
+	</div>
+	<?php include('../int_footer.php'); ?>
+	</body>
+</html>

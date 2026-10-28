@@ -1,0 +1,76 @@
+BODY { background: #ffffff; font: 12px Geneva, Verdana, Arial, Helvetica, sans-serif;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+#header {
+	width: 100%;
+	margin-top: 0;
+	margin-left: 0;
+}
+#header img {
+	border-style: none;
+	border-width: 0;
+	margin: 10px;
+}
+#header #chinesename {
+	color: #000;
+	font: bold 24px/26px Georgia, "Times New Roman", Times, serif;
+}
+#header #englishnamebig {
+	color: #000;
+	font: italic 24px/26px "Comic Sans MS", Casual;
+}
+#header #englishnamesmall {
+	color: #000;
+	font: italic 18px/26px "Comic Sans MS", Casual;
+}
+#header #address {
+	color: #000;
+	font: bold 12px/14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+#maincontact {
+	width: 980px; height: 200px; margin: 20px auto; position: relative; z-index: 9997;
+}
+#mainitems {
+	width: 980px; margin: 20px auto; position: relative; z-index: 9997;
+}
+#mainitems #box {
+	border: 1px solid #000;
+	color: black;
+	font: bold 14px/20px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	padding: 5px;
+	text-transform: uppercase;
+}
+
+#mainitems #items {
+	border-left: 1px solid #000;
+	border-right: 1px solid black;
+	
+	height: 20px;
+	border-bottom-style: none;
+	padding: 5px 2px;
+	font: 11px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+#summary {
+	width: 980px; height: 200px; margin: 20px auto; position: relative; z-index: 9997;
+
+}
+#summary #remark td{
+	color: #000;
+	font: bold 14px Georgia, "Times New Roman", Times, serif;
+}
+#summary #remark td p {
+	color: #000;
+	font: 10px/11px "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+#summary #total td{
+	padding: 2px 4px;
+}
+
+#mainitems #bottom {
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-top-style: none;
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+	<channel>
+		<title>Design Bracelet</title>
+		<atom:link href="http://www.vigorgems.com/bracelet/?feed=rss2" rel="self" type="application/rss+xml"/>
+		<link>http://www.vigorgems.com</link>
+		<description>Design Bracelet</description>
+		<lastBuildDate>Sat, 07 Jul 2012 04:26:17 +0000</lastBuildDate>
+		<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+			<title>Gemstone flower</title>
+			<codename>CB317</codename>
+			<imglink>http://c398730.r30.cf1.rackcdn.com/cb317.jpg</imglink>
+			<itemlink>http://www.vigorgems.com/bracelet/sc2174</itemlink>
+			<pubDate>Sat, 07 Jul 2012 04:09:12 +0000</pubDate>
+			<description>Decent Gemstone flower cabochon.It can be in your hand or neck.</description>
+		</item>
+		<item>
+			<title>Free style Pendant </title>
+			<codename>CB213</codename>
+			<imglink>http://c398730.r30.cf1.rackcdn.com/cb213.jpg</imglink>
+			<itemlink>http://www.vigorgems.com/bracelet/blf320</itemlink>
+			<pubDate>Sat, 07 Jul 2012 04:09:12 +0000</pubDate>
+			<description>Picture shows cuplite pendant with free form shape.</description>
+		</item>
+		<item>
+			<title>Tear drop shape Pendant</title>
+			<codename>CB111</codename>
+			<imglink>http://c398730.r30.cf1.rackcdn.com/cb111.jpg</imglink>
+			<itemlink>http://www.vigorgems.com/bracelet/bl322</itemlink>
+			<pubDate>Sat, 07 Jul 2012 04:09:12 +0000</pubDate>
+			<description>Tear drop shape pendant, it can match with any style of necklace.</description>
+		</item>
+		
+			</channel>
+</rss>

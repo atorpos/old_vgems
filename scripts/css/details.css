@@ -1,0 +1,190 @@
+#main {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+	min-height: 700px;
+	background-image: url(/images/bg_detail_grad.png);
+	background-repeat: repeat-x;
+	background-color: #FFFFFF;
+}
+h2 {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+}
+.page {
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	min-height: 700px;
+}
+.page .top {
+	height: 10px;
+	background-image: url(/images/bg_detail_bigbox_top.png);
+	background-repeat: no-repeat;
+}
+.page .mid {
+	min-height: 300px;
+	background-image: url(/images/bg_detail_bigbox_cen.png);
+	background-repeat: repeat-y;
+	overflow: auto;
+}
+.page .mid .cola {
+	width: 530px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 9px;
+	float: left;
+	border-right: 1px solid #dbdbdb;
+}
+.page .mid .cola .photoarea {
+	border-bottom: 1px solid #dbdbdb;
+	margin-bottom: 5px;
+}
+.page .mid .cola .photoarea img {
+	max-width: 500px;
+}
+.page .mid .cola .moreitems {
+	margin-top: 5px;
+	margin-bottom: 4px;
+}
+.page .mid .cola .photoarea img {
+	padding: 4px;
+}
+.page .mid .colb {
+	width: 240px;
+	min-height: 300px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	float: right;
+	border-left: #dbdbdb;
+	border-left-width: thin;
+}
+.page .mid .colb .moredet {
+	border-top: 1px solid #dbdbdb;
+	border-bottom: 1px solid #dbdbdb;
+	overflow: auto;
+}
+.page .mid .colb .moredet img {
+	height: 60px;
+	width: 60px;
+	padding: 5px;
+}
+
+.headline {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+}
+.subline {
+	font-family: sans-serif;
+	font-size: 14px;
+}
+.page .bot {
+	min-height: 10px;
+	background-image: url(/images/bg_detail_bigbox_bot.png);
+	background-repeat: no-repeat;
+}
+.listprice {
+	font-weight: normal;
+	font-size: 18px;
+	padding: 2px;
+}
+.addbutton {
+	height: 40px;
+	width: 150px;
+	background-image: url(/images/button_detail_grad.png);
+	border: none;
+	background-color: #EEEEEE;
+}
+.infostatus {
+	font-weight: bold;
+	font-size: 14px;
+	padding-left: 5px;
+}
+.detailstatus {
+	font-weight: normal;
+	font-size: 12px;
+	padding-left: 5px;
+}
+.buttoninfo {
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.moreitems {
+	border-top: 1px solid #dbdbdb;
+	padding-left: 13px;
+}
+	 .moreitembox a:link{text-decoration:none;}
+     .moreitembox article{ float:left; width:150px; height:150px; } /*cursor:pointer;opacity:0.5;*/
+	/*portfolio*/
+	.fdw-background{ background-color:rgba(0,0,0,0.6);opacity:0; margin-top:-25px; width:100%; height:100%; }
+	.fdw-background h4{font-size:20px; font-family: 'Dosis', sans-serif; text-align:center; padding:10px 10px 0; }
+	.fdw-background .fdw-port{ text-align:center; padding:0 10px 0; }
+	.fdw-background .fdw-port a{ padding:8px 15px; font-size:1em; }
+	/*subtitle*/
+	.fdw-subtitle{ font-size:0.8em; margin-top:-20px; color:#0CF; }
+	.fdw-subtitle a{ color:#F90; }
+	/*columns*/
+	.c-two{ width:150px !important; }
+	/*align*/
+	.a-center{ text-align:center; }
+	/*border*/
+	.border{ border:1px solid #CCC; margin:-1px;}
+	/*link buttons*/
+    .fdw-port a{ 
+		background-color:#336699; 
+		color:#fff; 
+		border-radius:3px;
+		-moz-border-radius:3px;
+		-webkit-border-radius:3px;
+		-o-border-radius:3px;
+		-webkit-box-shadow: 0 3px 0 #0f3963, 3px 5px 3px #333;
+		-moz-box-shadow: 0 3px 0 #0f3963, 3px 5px 3px #333;
+		box-shadow: 0 3px 0 #0f3963, 3px 5px 3px #333;
+		-o-box-shadow: 0 3px 0 #0f3963, 3px 5px 3px #333;
+		text-shadow:0 1px 1px #000;
+	}
+    .fdw-port a:hover{ 
+		background-color:#f2f2f2; 
+		color:#336699 !important; 
+		text-shadow:0 1px 1px #ccc;
+		-webkit-box-shadow: 0 3px 0 #ccc, 3px 5px 3px #333;
+		-moz-box-shadow: 0 3px 0 #ccc, 3px 5px 3px #333;
+		box-shadow: 0 3px 0 #ccc, 3px 5px 3px #333;
+		-o-box-shadow: 0 3px 0 #ccc, 3px 5px 3px #333;
+	}
+	
+.moreitems li{
+	display: inline;
+	list-style-type: none;
+}
+.moreitembox {
+	width: 150px;
+	display: inline;
+	padding: 10px;
+	float: left;
+	text-align: center;
+	font-size: 12px;
+	color: #4b4b4c;
+	overflow: hidden;
+	border: 1px, #dbdbdb, solid;
+}
+.moreitembox img {
+	max-width: 130px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+div.floatbox{
+	padding: 3px;
+	position: absolute;
+    display: none;
+    background: #fff;
+    border: 1px solid #dbdbdb;
+}

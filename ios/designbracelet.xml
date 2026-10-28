@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+	<channel>
+		<title>Design Bracelet</title>
+		<atom:link href="http://www.vigorgems.com/bracelet/?feed=rss2" rel="self" type="application/rss+xml"/>
+		<link>http://www.vigorgems.com</link>
+		<description>Design Bracelet</description>
+		<lastBuildDate>Sat, 07 Jul 2012 04:26:17 +0000</lastBuildDate>
+		<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+			<title>Pyramid Silver Bracelet</title>
+			<codename>SC2174</codename>
+			<imglink>http://c398730.r30.cf1.rackcdn.com/sc2174@2x.jpg</imglink>
+			<itemlink>http://www.vigorgems.com/bracelet/sc2174</itemlink>
+			<pubDate>Sat, 07 Jul 2012 04:09:12 +0000</pubDate>
+			<description>Decent Gemstone with silver bracelet.The Pyramid shape bracelet can style you up.</description>
+		</item>
+		<item>
+			<title>Big fin shape Bracelet</title>
+			<codename>BLF320</codename>
+			<imglink>http://c398730.r30.cf1.rackcdn.com/blf320@2x.jpg</imglink>
+			<itemlink>http://www.vigorgems.com/bracelet/blf320</itemlink>
+			<pubDate>Sat, 07 Jul 2012 04:09:12 +0000</pubDate>
+			<description>New style in 2012, the fin shape bracelet is the most fashionable bracelet we ever made.</description>
+		</item>
+		<item>
+			<title>Saddle shape Bracelet</title>
+			<codename>BL322</codename>
+			<imglink>http://c398730.r30.cf1.rackcdn.com/bl322@2x.jpg</imglink>
+			<itemlink>http://www.vigorgems.com/bracelet/bl322</itemlink>
+			<pubDate>Sat, 07 Jul 2012 04:09:12 +0000</pubDate>
+			<description>One of our famous bracelet, the new design is even better.</description>
+		</item>
+		
+			</channel>
+</rss>

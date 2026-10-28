@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+	<?php
+		include('../new_html.php');
+	?>
+	<body>
+		<?php
+			include('../new_header.php');
+		?>
+		
+		<?php
+			include('../new_content.php');
+		?>
+		
+		<?php
+			include('../new_footer.php');
+		?>
+	</body>
+</html>

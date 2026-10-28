@@ -1,0 +1,79 @@
+<?php 
+$pagename = "Dice Nugget Necklace";
+$productname = "Dice Shape Nugget Necklace";
+include('../header_int.php'); ?>
+<div id="main">
+	<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '241160452648617',                        // App ID from the app dashboard
+      channelUrl : 'WWW.VIGORGEMS.COM/scripts/channel.php', // Channel file for x-domain comms
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+	<div class="page">
+	<div class="top">
+	&nbsp;
+	</div>
+	<div class="mid">
+		<div class="cola">
+			<div class="photoarea">
+			<p align="center">
+			<img src="/images/products/NBC012/AMY.jpg">
+			</p>
+			<p align="center" class="headline"><?php echo $productname; ?></p>
+		<p align="center" class="subline">TESTING TESTING</p>
+			</div>
+			<div class="moreitems">
+				<h2>Items you might also like</h2>
+			</div>
+		</div>
+		<div class="colb">
+			<div class="moredet">
+				<p align="center" class="headline"><?php echo $productname; ?></p><p align="center" class="subline">TESTING TESTING</p>
+				<img src="/images/products/NBC012/QZS.png"><img src="/images/products/NBC012/S7M.png"><img src="/images/products/NBC012/QZR.png">
+				<p align="left">
+					<span class="infostatus">Stock Status:</span><br>
+					<span class="detailstatus">50+</span>
+				</p>
+				<p>
+					<button  class="addbutton" type="button"><span class="buttoninfo">Save to List</span></button>
+				</p>
+				<p>
+					<div class="fb-like" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false"></div>
+					<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+				</p>
+			</div>
+			<div class="moredet" align="left">
+					<ul>
+									<li><a href="/things/254212289/Lego-Ice-Cube-Trays" id="show-someone" class="show" uid="42344" tid="254212289" tname="Lego Ice Cube Trays" timage="http://cf2.thingd.com/default/254212289_56603b59f004.jpeg" username="emamcmillan" action="buy" require_login="true"><i></i>Share</a></li>
+						<li><a href="#" onclick="require_login();" class="list" id="show-add-to-list"><i></i>Add to list</a></li>
+						<li><a href="#" class="feature" require_login="true" oid="534789" ooid="42344" otype="newthing"><i></i>Feature on my profile</a></li>
+						<li><a href="#" class="own" require_login="true" tid="254212289"><i></i>I own it</a></li>
+						<li><a href="/color_search?thing_id=254212289" class="color"><i></i>Find similar colors</a></li>
+                    </ul>
+			</div>
+		</div>
+	</div>
+	<div class="bot">
+	&nbsp;
+	</div>
+	</div>
+</div>
+<?php include('../int_footer.php'); ?>

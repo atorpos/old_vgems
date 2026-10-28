@@ -1,0 +1,8 @@
+AuthUserFile /root/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Members Only"
+AuthType Basic
+
+<Limit GET POST>
+require clients
+</Limit>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_Messagesystem" value="name:id;datatype:int,name:email;datatype:string,name:time;datatype:timestamp,name:title;datatype:string,name:contents;datatype:string" /></info>

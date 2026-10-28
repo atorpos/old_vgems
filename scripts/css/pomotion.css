@@ -1,0 +1,31 @@
+#whitepage {
+	width: 1014px;
+	height: auto;
+	margin: 10px auto; position: relative; z-index: 1;
+	background: url(../../images/whitemain.png) no-repeat;
+	
+}
+
+#whitepage #contain {
+	z-index: 2;
+	width: 944px;
+	padding: 35px;
+}
+
+#whitepage #contain p {
+	z-index: 2;
+	padding: 10px;
+}
+
+#whitepage #contain td img {
+	z-index: 2;
+	padding: 10px;
+	border-style: solid;
+	border-width: 1px;
+	
+}
+
+#whitepage #contain #form1 {
+	padding: 10px;
+	line-height: 28px;
+}

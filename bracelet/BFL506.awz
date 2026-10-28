@@ -1,0 +1,361 @@
+<?php
+	$pagename = "Hexagon Faceted bracelet";
+$productname = "Hexagon Faceted bracelet";
+?><!DOCTYPE HTML SYSTEM>
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title><?php echo "Vigor Gems and Jewelry LTD - ". $pagename; ?></title>
+		<link rel="stylesheet" href="/scripts/javascript/galleriffic/css/basic.css" type="text/css" />
+		<link rel="stylesheet" href="/scripts/javascript/galleriffic/css/galleriffic-2.css" type="text/css" />
+		<script type="text/javascript" src="/scripts/javascript/galleriffic/js/jquery-2.0.0.min.js"></script>
+		<script type="text/javascript" src="/scripts/javascript/galleriffic/js/jquery.galleriffic.js"></script>
+		<script type="text/javascript" src="/scripts/javascript/galleriffic/js/jquery.opacityrollover.js"></script>
+		<script type="text/javascript" src="/scripts/javascript/galleriffic/js/custom.js"></script>
+		<script src="/scripts/javascript/modernizr.custom.28809.js"></script>
+		<script src="/scripts/javascript/retina.js"></script>
+		<link rel="stylesheet" media="all" type="text/css" href="/scripts/css/details.css"><link rel="stylesheet" href="/scripts/css/global_header.css" type="text/css" />
+		<!-- We only want the thunbnails to display when javascript is disabled -->
+		<script type="text/javascript">
+			document.write('<style>.noscript { display: none; }</style>');
+		</script>
+		<script type='text/javascript'>//<![CDATA[ 
+$(window).load(function(){
+$("a").hover(function(e) {
+    $($(this).data("tooltip")).css({
+        left: e.pageX + 1,
+        top: e.pageY + 1
+    }).stop().show(100);
+}, function() {
+    $($(this).data("tooltip")).hide();
+});
+
+});//]]>  
+
+</script>
+	</head>
+	<body>
+		<div id="header">
+	<div id="staticbar">
+		<div id="logoholder">
+			<a href="/"><img src="/images/header_logo@2x.png" alt="vigor gems and jewelry ltd" width="450" height="64"/></a>
+		</div>
+		<div id="searchholder">
+			<ul id="headnav">
+				
+				<li>Hi,<span style="font-weight:bold"> 
+					<?php
+						if (!isset($_SESSION['MM_Username'])) { 
+							echo "Guest ";
+						} else {
+							$colname_Recordset1 = $_SESSION['MM_Username'];
+							echo "<a href=\"/crm/\">" .$colname_Recordset1 ."</a>";
+						}
+					?>
+				</span> </li>
+				<li class="press"><a href="/news/">Press</a></li>
+				<!-- <li class="miscnav">Register</li> -->
+				<li class="miscnav">
+				<?php
+				
+				if (!isset($_SESSION['MM_Username'])) { 
+					echo "<a href=\"https://www.vigorgems.com/signin.awz\">Log in</a>";
+					
+				} else {
+					echo "<a href=\"https://www.vigorgems.com/scripts/php/php_logout.php\">Log out</a>";
+				}
+					
+				?>
+				</li>
+				<li class="miscnav"><a href="//t2.phplivesupport.com/atropos/phplive.php?d=1" target="new"><img src="//t2.phplivesupport.com/atropos/ajax/image.php?d=1" border="0" align="middle" alt="livehelp"/> Live help</a>
+					<div id="d3" style="display:none;">
+						<div style="background-color:#ffffff;width:650px;border:1px solid gray;padding:1px;z-index:10000;">
+							<iframe src="/sendquestion.html" style="border:none; width:650px; height:375px; z-index:10001;"></iframe>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+<div id="navigation">
+	<ul id="mymenu">
+		<li><a href="/index.php" onmouseover="javascript:showsubmenu(1)">HOME</a></li>
+    	<li><a href="/jewelry.php" onmouseover="javascript:showsubmenu(2)">JEWELRY</a></li>
+    	<li><a href="/stone.php" onmouseover="javascript:showsubmenu(6)">SEMI-FINISHED ITEM</a></li>
+	
+    	<li><a href="/collection.php" onmouseover="javascript:showsubmenu(8)">COLLECTIONS</a></li>
+    	<li><a href="/exhibitions/" onmouseover="javascript:showsubmenu(3)">EXHIBITION</a></li>
+    	<li><a href="/factory/responsibility.php#factory" onmouseover="javascript:showsubmenu(4)">OUR FACTORY</a></li>
+    	<li><a href="/care.php" onmouseover="javascript:showsubmenu(5)">CUSTOMER SERVICE</a></li>
+		<li><a href="/info.php" onmouseover="javascript:showsubmenu(7)">COMPANY INFO</a></li>
+	</ul>
+</div>
+<div id="sublinks">
+	<ul id="s1">
+        <li></li>
+    </ul>
+	<ul id="s6">
+        <li><a href="/beads">BEADS</a></li>
+        <li><a href="/cabochon">CABOCHON</a></li>     
+        
+    </ul>
+    <ul id="s2">
+        <li><a href="/accessory">ACCESSORY</a></li><li><a href="/bracelet">BRACELET</a></li> <li><a href="/earring">EARRING</a></li><li><a href="/necklet">NECKLET</a></li><li><a href="/ring">RING</a></li>
+    </ul>
+    <ul id="s3">
+        <li><a href="/exhibitions">GENERAL INFO.</a></li>
+        <li><a href="/exhibitions/spring.php">SPRING</a></li>
+        <li><a href="/exhibitions/summer.php">SUMMER</a></li>
+        <li><a href="/exhibitions/fall.php">FALL</a></li>
+        <li><a href="/exhibitions/oversea.php">OVER SEA</a></li>
+    </ul>
+     <ul id="s4">
+        <li><a href="/factory/location.php">LOCATION</a></li>
+    </ul>
+    <ul id="s5">
+        <li><a href="/customer/status.php">CHECK YOUR STATUS</a></li><li><a href="/customer/mapp.php">MAKE AN APPOINTMENT</a></li><li><a href="/custmoer/interact.php">ORDER OUR PRODUCT</a></li>
+    </ul>
+    <ul id="s7">
+        <li><a href="/aboutus.php">ABOUT US</a></li><li><a href="/jobs.php">JOBS</a></li><li><a href="/pressbox.php">PRESS BOX</a></li>
+    </ul>
+    <ul id="s8">
+        <li><a href="/carving">CARVING</a></li><li><a href="/globe">GLOBE</a></li>
+    </ul>
+    
+</div>
+</div>
+	<div id="main">
+		<div id="page">
+			<div id="container">
+				<h1><?php echo $productname; ?></h1>
+				<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '241160452648617',                        // App ID from the app dashboard
+      channelUrl : 'WWW.VIGORGEMS.COM/scripts/channel.php', // Channel file for x-domain comms
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+  // Load the SDK asynchronously
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+				<!-- Start Advanced Gallery Html Containers -->
+				<div id="gallery" class="content">
+					<div id="controls" class="controls"></div>
+					<div class="slideshow-container">
+						<div id="loading" class="loader"></div>
+						<div id="slideshow" class="slideshow"></div>
+					</div>
+					<div id="caption" class="caption-container"></div>
+				</div>
+				<div id="thumbs" class="navigation">
+					<ul class="thumbs noscript">
+						<li>
+							<a class="thumb" name="leaf" href="/images/products/BFL506/DHW.jpg" title="<?php echo $productname ?>">
+								<img src="/images/products/BFL506/DHW.png" alt="<?php echo $productname ?> in Dye Howlite" />
+							</a>
+							<div class="caption">
+								
+								<div class="image-title"><?php echo $productname ?> in Dye Howlite</div>
+								<div class="image-desc"><strong >Details</strong>
+									<ul>
+										<li><div class="detcola">Stone</div><div class="detcolb">Dye Howlite</div></li>
+										<li><div class="detcola">Bracelet Type</div><div class="detcolb">Stretch</div></li>
+										<li><div class="detcola">Length</div><div class="detcolb">inner wrist 19cm; </div></li>
+										<li><div class="detcola">Beads Size</div><div class="detcolb">8*10mm</div></li>
+										<li><div class="detcola">Additional Info.</div><div class="detcolb"></div></li>
+									</ul>
+								</div>
+							</div>
+						</li>
+						<li>
+							<a class="thumb" name="leaf" href="/images/products/BFL506/FLR.jpg" title="<?php echo $productname ?>">
+								<img src="/images/products/BFL506/FLR.png" alt="<?php echo $productname ?> in smokey quartz" />
+							</a>
+							<div class="caption">
+								
+								<div class="image-title"><?php echo $productname ?> in Fluorite</div>
+								<div class="image-desc"><strong >Details</strong>
+									<ul>
+										<li><div class="detcola">Stone</div><div class="detcolb">Fluorite</div></li>
+										<li><div class="detcola">Bracelet Type</div><div class="detcolb">Stretch</div></li>
+										<li><div class="detcola">Length</div><div class="detcolb">inner wrist 19cm; </div></li>
+										<li><div class="detcola">Beads Size</div><div class="detcolb">8*10mm</div></li>
+										<li><div class="detcola">Additional Info.</div><div class="detcolb"></div></li>
+									</ul>
+								</div>
+							</div>
+						</li>
+						
+					</ul>
+					<div class="moredet">
+				<p align="left">
+					<h2>Stock Status:</h2>
+					<span class="detailstatus">Available</span>
+				</p>
+				<p>
+					<button  class="addbutton" type="button"><span class="buttoninfo">Save to List</span></button>
+				</p>
+				<div class="fb-like" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false"></div>
+					<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<ul>
+									<li><a href="/things/254212289/Lego-Ice-Cube-Trays" id="show-someone" class="show" uid="42344" tid="254212289" tname="Lego Ice Cube Trays" timage="http://cf2.thingd.com/default/254212289_56603b59f004.jpeg" username="emamcmillan" action="buy" require_login="true"><i></i>Share</a></li>
+						<li><a href="#" onclick="require_login();" class="list" id="show-add-to-list"><i></i>Add to list</a></li>
+						<li><a href="#" class="feature" require_login="true" oid="534789" ooid="42344" otype="newthing"><i></i>Feature on my profile</a></li>
+						<li><a href="#" class="own" require_login="true" tid="254212289"><i></i>I own it</a></li>
+						<li><a href="/color_search?thing_id=254212289" class="color"><i></i>Find similar colors</a></li>
+                    </ul>
+					</div>
+				<div class="moresto">
+				<h2>Stone also available</h2>
+				<a href="#" data-tooltip="#tye"><img src="/images/stone/tye.gif"></a><a href="#" data-tooltip="#agr"><img src="/images/stone/agr.gif"></a><a href="#" data-tooltip="#ags"><img src="/images/stone/ags.gif"></a><a href="#" data-tooltip="#amy"><img src="/images/stone/amy.gif"></a><a href="#" data-tooltip="#car"><img src="/images/stone/car.gif"></a>
+				
+				<div id="tye" class="floatbox">Tigers Eye</div><div id="agr" class="floatbox">Agate red</div><div id="ags" class="floatbox">Agate Botswana</div><div id="amy" class="floatbox">Amethyst</div><div id="car" class="floatbox">Carnelian</div>
+
+				</div>
+				</div>				
+				<div style="clear: both;"></div>
+				<div class="moreitems">
+				<h2>Items you might also like</h2>
+				<ul>
+					<li>
+						<div class="moreitembox"> 
+							<!-- start article 1 -->
+							<article class="border c-two" style="background-image:url(/images/products/BLL311/DH2%402x_150.png); background-size:auto">
+								<div style="opacity: 0;" class="fdw-background">
+									<h4><a href="/bracelet/BL311.awz" style="color:#fff;">Huge</a></h4>
+									<div class="fdw-subtitle a-center">Saddle <a href="#">Bracelet</a></div>
+									<p class="fdw-port">
+										<a href="/bracelet/BL311.awz">Check it Out<span class="vg-icon">→</span></a>
+									</p>
+								</div>
+							</article>
+							<br>BL311 Saddle Bracelet
+							<!-- end article 1 -->
+						</div>
+					</li>
+					<li>
+						<div class="moreitembox"> 
+							<!-- start article 2 -->
+							<article class="border c-two" style="background-image:url(/images/products/NBC012/S7M%402x_150.png); background-size:auto">
+								<div style="opacity: 0;" class="fdw-background">
+									<h4><a href="/necklet/NBC012.awz" style="color:#fff;">Nugget</a></h4>
+									<div class="fdw-subtitle a-center">style <a href="#">Necklace</a></div>
+									<p class="fdw-port">
+										<a href="/necklet/NBC012.awz">Check it Out<span class="vg-icon">→</span></a>
+									</p>
+								</div>
+							</article>
+							<br>NBC012 Nugget Necklace
+							<!-- end article 2 -->
+						</div>
+					</li>
+					<li>
+						<div class="moreitembox"> 
+							<!-- start article 3 -->
+							<article class="border c-two" style="background-image:url(/images/products/BL404/AMY%402x_150.jpg); background-size:auto">
+								<div style="opacity: 0;" class="fdw-background">
+									<h4><a href="/bracelet/BL404.awz" style="color:#fff;">Square</a></h4>
+									<div class="fdw-subtitle a-center">shape <a href="#">Bracelet</a></div>
+									<p class="fdw-port">
+										<a href="/bracelet/BL404.awz">Check it Out<span class="vg-icon">→</span></a>
+									</p>
+								</div>
+							</article>
+							<br>BL404 Square Bracelet
+							<!-- end article 3 -->
+						</div>
+					</li>
+					<li>
+						<div class="moreitembox"> 
+							<!-- start article 1 -->
+							<article class="border c-two" style="background-image:url(/images/products/BL312M/QZR%402x_150.jpg); background-size:auto">
+								<div style="opacity: 0;" class="fdw-background">
+									<h4><a href="/bracelet/BL312M.awz" style="color:#fff;">Curve</a></h4>
+									<div class="fdw-subtitle a-center">Saddle <a href="#">Bracelet</a></div>
+									<p class="fdw-port">
+										<a href="/bracelet/BL312M.awz">Check it Out<span class="vg-icon">→</span></a>
+									</p>
+								</div>
+							</article>
+							<br>BL311 Saddle Bracelet
+							<!-- end article 1 -->
+						</div>
+					</li>
+				</ul>
+			</div>
+			</div>
+		</div>
+	</div>
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				// We only want these styles applied when javascript is enabled
+				$('div.navigation').css({'width' : '280px', 'float' : 'right'});
+				$('div.content').css({'display': 'inline', 'float': 'left', 'width':'550px','overflow':'hidden'});
+
+				// Initially set opacity on thumbs and add
+				// additional styling for hover effect on thumbs
+				var onMouseOutOpacity = 0.67;
+				$('#thumbs ul.thumbs li').opacityrollover({
+					mouseOutOpacity:   onMouseOutOpacity,
+					mouseOverOpacity:  1.0,
+					fadeSpeed:         'fast',
+					exemptionSelector: '.selected'
+				});
+				
+				// Initialize Advanced Galleriffic Gallery
+				var gallery = $('#thumbs').galleriffic({
+					delay:                     2500,
+					numThumbs:                 15,
+					preloadAhead:              10,
+					enableTopPager:            true,
+					enableBottomPager:         true,
+					maxPagesToShow:            7,
+					imageContainerSel:         '#slideshow',
+					controlsContainerSel:      '#controls',
+					captionContainerSel:       '#caption',
+					loadingContainerSel:       '#loading',
+					renderSSControls:          true,
+					renderNavControls:         true,
+					playLinkText:              'Play Slideshow',
+					pauseLinkText:             'Pause Slideshow',
+					prevLinkText:              '&lsaquo; Previous Item',
+					nextLinkText:              'Next Item &rsaquo;',
+					nextPageLinkText:          'Next &rsaquo;',
+					prevPageLinkText:          '&lsaquo; Prev',
+					enableHistory:             false,
+					autoStart:                 false,
+					syncTransitions:           true,
+					defaultTransitionDuration: 900,
+					onSlideChange:             function(prevIndex, nextIndex) {
+						// 'this' refers to the gallery, which is an extension of $('#thumbs')
+						this.find('ul.thumbs').children()
+							.eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+							.eq(nextIndex).fadeTo('fast', 1.0);
+					},
+					onPageTransitionOut:       function(callback) {
+						this.fadeTo('fast', 0.0, callback);
+					},
+					onPageTransitionIn:        function() {
+						this.fadeTo('fast', 1.0);
+					}
+				});
+			});
+		</script>
+		<?php include('../int_footer.php'); ?></body></html>

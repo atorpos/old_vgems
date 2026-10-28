@@ -1,0 +1,52 @@
+BODY {
+	background: white url(../../images/bg_tvsmall.jpg) no-repeat 0 0;
+	margin-top: 0;
+	margin-left: 0;
+	color: white;
+	font: 12px/16px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+ #header {
+	width: 1000px;
+	height: auto;
+	z-index: 9998;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+}
+#header #applesearch #livesearch
+  {
+  	margin:4px;
+  	width:204px;
+  	z-index: 10000;
+ 	position: absolute;
+	
+	padding: 5px;
+	font: 10px/14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+#txt1
+  {
+  	margin:0px;
+  	
+	}
+/*
+#header {
+	background: url(../../images/vigorgems_header.png) no-repeat;
+	width: 101%;
+	height: 110px;
+}
+New Web CSS */
+#main {
+	width: 945px;
+	height: 1156px;
+	margin: 60px auto; position: relative; z-index: 9998;
+	padding-top: 16px;
+	padding-right: 21px;
+	padding-left: 14px;
+	color: black;
+	background: url(../../images/bg_exhibition_whitepart.png) no-repeat;
+}
+#main p {
+	margin: 10px;
+	font-size: 14px;
+}

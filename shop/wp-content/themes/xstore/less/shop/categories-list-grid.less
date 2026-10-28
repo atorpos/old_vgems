@@ -1,0 +1,222 @@
+ /*Category list grid*/
+.categories-lists-grid{
+	margin-left: -15px;
+	margin-right: -15px;
+	.category-list-item-wrapper{
+		float: left;
+		padding-left: 15px;
+		padding-right: 15px;
+		margin-bottom: 30px;
+	}
+	&.categories-columns-2{
+		.category-list-item-wrapper{
+			width: 50%;
+			&:nth-child(2n+1){
+				clear: both;
+			}
+		}
+	}
+	&.categories-columns-3{
+		.category-list-item-wrapper{
+			width: 33.33%;
+			&:nth-child(3n+1){
+				clear: both;
+			}
+		}
+	}
+	&.categories-columns-4{
+		.category-list-item-wrapper{
+			width: 25%;
+			&:nth-child(4n+1){
+				clear: both;
+			}
+		}
+	}
+	&.categories-columns-5{
+		.category-list-item-wrapper{
+			width: 20%;
+			&:nth-child(5n+1){
+				clear: both;
+			}
+		}
+	}
+	&.categories-columns-6{
+		.category-list-item-wrapper{
+			width: 16.667%;
+			&:nth-child(6n+1){
+				clear: both;
+			}
+		}
+	}
+		
+}
+.category-list-item{
+	border:1px solid #e6e6e6;
+	padding: 20px 20px 10px 20px;
+	img{
+		margin-bottom: 15px;
+		display: block;
+	}
+	>ul{
+		margin-bottom: 0;
+	}
+	ul{
+		padding-left: 0;
+		li{
+			list-style: none;
+			margin-bottom: 0;
+			line-height: 1.2;
+			margin-bottom: 15px;
+			&:last-child{
+				margin-bottom: 0;
+			}
+			a{
+				font-size: 13px;
+				color: #999999;
+				.transition();
+
+				mark{
+					background-color: transparent;
+					color: #999;
+					padding-right: 0;
+				}
+				&:hover{
+					color: #1e1e1e;
+				}
+				.read-more {
+					font-size: 14px;
+				}
+			}
+			>a{
+				margin-bottom: 15px;
+				display: block;
+			}
+			ul li ul{
+				>li{
+					padding-left: 10px;
+					position: relative;
+					&:before{
+						content:"\f105";
+						font-family: FontAwesome;
+						position: absolute;
+						left: 0;
+						line-height: 1;
+					}
+					&:last-child{
+						margin-bottom: 0;
+					}
+				}
+			}
+		}
+	}
+	>ul>li>a{
+		font-size: 14px;
+		font-weight: 600;
+		color: #1e1e1e;
+		margin-bottom: 15px;
+		display: block;
+		.transition(all, 0.3s, ease-in-out);
+		mark{
+			display: none;
+		}
+	}
+}
+
+.categories-lists-slider{
+	width: auto !important;
+	margin-left: -15px;
+	margin-right: -15px;
+	.swiper-slide {
+		padding-left: 15px;
+		padding-right: 15px;
+		.transition();
+		&:hover {
+			transform: scale(1.1);
+		}
+	}
+}
+
+/*Category two rows products */
+.categories-products-two-rows {
+	background-color:  #fff;
+    overflow:  hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 15px 1px #e9e9e9;
+    padding-bottom: 30px;
+    margin-bottom: 35px;
+	.category-title {
+	    text-align:  center;
+	    background:  #cd0700;
+	    padding: 22px 0;
+	    margin-bottom: 30px;
+	    h4 {
+		    margin-bottom:  0;
+		    line-height:  1;
+		    a {
+			    font-size: 16px;
+			    text-transform:  uppercase;
+			    color:  #fff;
+			}
+		}
+	}
+	.products-group {
+    	padding:  0 2.1rem;
+	}
+	.top-products,
+	.bottom-product .content-product {
+        display: grid;
+	    grid-template-columns: ~"calc(50% - 10px )" ~"calc(50% - 10px )";
+	    grid-column-gap: 20px;
+	}
+	.top-products {
+	    border-bottom: 1px solid #e9e9e9;
+	    margin-bottom:  30px;
+	}
+	.top-product {
+	    text-align:  center;
+	}
+	.bottom-product {
+		.content-product, .product-image-wrapper {
+			margin-bottom: 0;
+		}
+		.content-product .product-title a {
+			font-size: 1.3rem;
+		}
+	}
+	.content-product {
+		.product-title a{
+			font-size: 1rem;
+    		line-height: 1.5;
+		}
+		.product-content-image img {
+	    	opacity: 1;
+		}
+	}
+	.show-products {
+		text-align: center;
+		margin-top: 30px;
+		a {
+		    font-size: 14px;
+		    text-transform: uppercase;
+		    color: #ce0800;
+		    font-weight: bold;
+		    /*border-bottom: 1.5px solid #ce0800;*/
+		    /*padding: 0 10px;*/
+		    padding-bottom: 3px;
+		    display: inline-block !important;
+		    &:after {
+		    	line-height:1;
+		    }
+		   	&:before,
+		   	&:after {
+		   		transition: all .2s ease-in-out;
+		   	}
+		}
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.categories-lists-grid .category-list-item-wrapper {
+		width: 100% !important;
+	}
+}

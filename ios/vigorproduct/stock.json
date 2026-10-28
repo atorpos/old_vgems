@@ -1,0 +1,4845 @@
+{
+	"BCL001" : [
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "3x6mm",
+		"price" : "1.50",
+		"stock" : "0",
+		"officestock" : "75",
+		"CN" : "office"
+	}, 
+	{
+		"stonename": "亞馬遜",
+		"size": "6x10mm",
+		"price" : "2.5",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL010" : [
+	{
+		"stonename": "Sodalite",
+		"size": "4mm",
+		"price" : "1.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "Picture Jasper",
+		"size": "10mm+4mm",
+		"price" : "2.5",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL002" : [{
+		"stonename": "虎眼",
+		"size": "7mm",
+		"price" : "3",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL004" : [
+	{
+		"stonename": "虎眼, TYE",
+		"size": "4x8mm",
+		"price" : "4.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "亞瑪信, AMZ",
+		"size": "4x8mm",
+		"price" : "4.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "鐵石, HEM",
+		"size": "4x8mm",
+		"price" : "4.0",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "黃晶",
+		"size": "6-7mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "6x10mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "6x10mm",
+		"price" : "5.00",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "GER 茶,紅,黄",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "A上前"
+	},
+	{
+		"stonename": "ITA紅+白+綠, ITA",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "POL紅瑪瑙+白",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "IRL橙+白+綠, IRL",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "紅東陵/綠東陵",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉/藍點石",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白松, HOW",
+		"size": "6x10mm",
+		"price" : "3.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "黃晶",
+		"size": "8mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL014" : [
+	{
+		"stonename": "波斯灣瑪瑙",
+		"size": "20x20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "20x20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL019" : [
+	{
+		"stonename": "4 Mixed Stone, S4M",
+		"size": "16x22mm",
+		"price" : "5.00",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "天然紅瑪瑙, CAR",
+		"size": "10mm",
+		"price" : "2.50",
+		"stock" : "80",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "紫晶",
+		"size": "16x22mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "16x22mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL037" : [
+	{
+		"stonename": "紫晶",
+		"size": "18x22mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "18x22mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶, QZS",
+		"size": "18x22mm",
+		"price" : "5.50",
+		"stock" : "70",
+		"officestock" : " 0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "爆花水晶, ZCY",
+		"size": "18x22mm",
+		"price" : "5.50",
+		"stock" : "80",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "18x22mm",
+		"price" : "5.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "藍紋",
+		"size": "18x22mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "波斯灣瑪瑙",
+		"size": "18x22mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "7 Mixed Stone, S7M",
+		"size": "18x22mm",
+		"price" : "4.50",
+		"stock" : "46",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "天然紅瑪瑙, CAR",
+		"size": "18x22mm",
+		"price" : "4.50",
+		"stock" : "90",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "水草瑪瑙",
+		"size": "18x22mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "18x22mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "亞馬遜, AMZ",
+		"size": "18x22mm",
+		"price" : "4.50",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "海洋石, POC",
+		"size": "18x22mm",
+		"price" : "4.50",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "藍金沙, GDB",
+		"size": "18x22mm",
+		"price" : "4.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "閃光石",
+		"size": "18x22mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅紋",
+		"size": "18x22mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "彩瑩, FLU",
+		"size": "18x22mm",
+		"price" : "4.00",
+		"stock" : "90",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "金沙",
+		"size": "18x22mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "18x22mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "18x22mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "新山玉, JNW",
+		"size": "18x22mm",
+		"price" : "3.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "18x22mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "18x22mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "漢白玉",
+		"size": "18x22mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL051" :[
+	{
+		"stonename": "虎眼",
+		"size": "8x11mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "7 mixed stone",
+		"size": "heart twins",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "綠東陵",
+		"size": "8x11mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "8x11mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "5x10mm",
+		"price" : "5.00",
+		"stock" : "64",
+		"officestock" : "0",
+		"CN" : "10"
+	}
+	],
+	"BCL052" : [
+	{
+		"stonename": "天然紅瑪瑙, CAR",
+		"size": "5x10mm",
+		"price" : "5.00",
+		"stock" : "80",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "6x12mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紫晶, AMY",
+		"size": "8x16mm",
+		"price" : "8.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "水晶, CRY",
+		"size": "8x16mm",
+		"price" : "7.50",
+		"stock" : "17",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "藍金沙, GDB",
+		"size": "8x16mm",
+		"price" : "6.50",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "紫晶, AMY",
+		"size": "10x20mm",
+		"price" : "9.50",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "亞馬遜, MZ",
+		"size": "10x20mm",
+		"price" : "7.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "藍點石, SOB",
+		"size": "10x20mm",
+		"price" : "6.50",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "CT"
+	}
+	],
+	"BFL012" : [
+	{
+		"stonename": "紫晶, AMY",
+		"size": "12x10mm",
+		"price" : "5.00",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "水晶",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "120",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "紅瑪瑙, CAR",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "At"
+	},
+	{
+		"stonename": "灰瑪瑙, AGL",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "波斯灣瑪瑙, AGS",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "20",
+		"officestock" : " 0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "水草瑪瑙, AGM",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "7Mixed Stone, S7M",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "110",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "藍金沙",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "150",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "鐵石",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "亞馬遜, AMZ",
+		"size": "12x10mm",
+		"price" : "4.00",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "彩瑩, FLU",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "閃光石",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "18",
+		"officestock" : "0",
+		"CN" : "C1"
+	},
+	{
+		"stonename": "閃光石",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅紋",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍紋",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石, POC",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "102",
+		"officestock" : "58",
+		"CN" : "C1"
+	},
+	{
+		"stonename": "花紅",
+		"size": "12x10mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "綠東陵, AVG",
+		"size": "12x10mm",
+		"price" : "3.00",
+		"stock" : "100",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "橙東陵, AGR",
+		"size": "12x10mm",
+		"price" : "3.00",
+		"stock" : "100",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "金沙石, GDS",
+		"size": "12x10mm",
+		"price" : "3.00",
+		"stock" : "80",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "大陸加玉/韓國玉",
+		"size": "12x10mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安, ONB",
+		"size": "12x10mm",
+		"price" : "3.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "12x10mm",
+		"price" : "3.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "漢白玉",
+		"size": "12x10mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BFL013" : [
+	{
+		"stonename": "Botswana Agate 波斯灣瑪瑙, AGS",
+		"size": "15x17mm",
+		"price" : "6.00",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "紫晶, AMY",
+		"size": "15x17mm",
+		"price" : "9.00",
+		"stock" : "120",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "茶晶(深淺色）, QZS",
+		"size": "15x17mm",
+		"price" : "6.50",
+		"stock" : "100",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "茶晶, QZS",
+		"size": "15x17mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "15x17mm",
+		"price" : "6.50",
+		"stock" : "110",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "15x17mm",
+		"price" : "6.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "藍金沙, GDB",
+		"size": "15x17mm",
+		"price" : "6.00",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "紅紋, RHO",
+		"size": "15x17mm",
+		"price" : "6.00",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "紅東陵",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "新山玉",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "圖畫石, PPI",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "92",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白松, HOW",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "112",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "旦白玻璃",
+		"size": "15x17mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白安",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "15x17mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石, PBL",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶, CRY",
+		"size": "15x17mm",
+		"price" : "6.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BS"
+	},
+	{
+		"stonename": "漢白玉",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "15x17mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "24x30mm",
+		"price" : "8.00",
+		"stock" : "110",
+		"officestock" : "0",
+		"CN" : "16"
+	},
+	{
+		"stonename": "紅瑪瑙, AGR",
+		"size": "24x30mm",
+		"price" : "8.00",
+		"stock" : "21",
+		"officestock" : "0",
+		"CN" : "16"
+	},
+	{
+		"stonename": "藍金沙",
+		"size": "24x30mm",
+		"price" : "8.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "橙東陵",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "新山玉",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白松, HOW",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "19",
+		"officestock" : "0",
+		"CN" : "15"
+	},
+	{
+		"stonename": "雪花, OBS",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "16"
+	},
+	{
+		"stonename": "黑安, ONB",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "28",
+		"officestock" : "0",
+		"CN" : "16"
+	},
+	{
+		"stonename": "白安",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "圖畫石",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "42",
+		"officestock" : "0",
+		"CN" : "15"
+	},
+	{
+		"stonename": "漢白玉",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "巴西藍紋",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "24x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BFL002" : [
+	{
+		"stonename": "黑曜石",
+		"size": "8x10mm",
+		"price" : "4.00",
+		"stock" : "150",
+		"officestock" : "0",
+		"CN" : "B車下前"
+	}
+	],
+	"BCL501" :[
+	{
+		"stonename": "紫晶",
+		"size": "4mm",
+		"price" : "1.50",
+		"stock" : "0",
+		"officestock" : "585",
+		"CN" : "office"
+	},
+	{
+		"stonename": "石榴",
+		"size": "4mm",
+		"price" : "1.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "4mm",
+		"price" : "1.50",
+		"stock" : "0",
+		"officestock" : "97",
+		"CN" : "office"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "4mm",
+		"price" : "1.50",
+		"stock" : "0",
+		"officestock" : "97",
+		"CN" : "office"
+	},
+	{
+		"stonename": "波斯灣瑪瑙(AGF47)",
+		"size": "4mm",
+		"price" : "1.20",
+		"stock" : "0",
+		"officestock" : "48",
+		"CN" : "office"
+	},
+	{
+		"stonename": "亞馬遜/藍金砂",
+		"size": "4mm",
+		"price" : "1.20",
+		"stock" : "0",
+		"officestock" : "250",
+		"CN" : "office"
+	},
+	{
+		"stonename": "AGK (HEM 39)",
+		"size": "4mm",
+		"price" : "1.00",
+		"stock" : "0",
+		"officestock" : "91",
+		"CN" : "office"
+	},
+	{
+		"stonename": "PRD (FLU15)",
+		"size": "4mm",
+		"price" : "1.00",
+		"stock" : "0",
+		"officestock" : "15",
+		"CN" : "office"
+	},
+	{
+		"stonename": "粉晶 (AVG 47)",
+		"size": "4mm",
+		"price" : "1.00",
+		"stock" : "0",
+		"officestock" : "47",
+		"CN" : "office"
+	}
+	],
+	"BFL014" : [
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "20x20mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "20x20mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "橙東陵",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "15",
+		"officestock" : "0",
+		"CN" : "2"
+	},
+	{
+		"stonename": "白松",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白安",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "2"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "20x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BFL022" : [
+	{
+		"stonename": "灰瑪瑙",
+		"size": "25mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "閃光石",
+		"size": "25mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "綠東陵",
+		"size": "25mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "韓國玉",
+		"size": "25mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "新山玉",
+		"size": "25mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "25mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "25mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "25mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "23mm",
+		"price" : "8.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "灰瑪瑙",
+		"size": "23mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水草瑪瑙",
+		"size": "23mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "亞馬遜",
+		"size": "23mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "閃光石",
+		"size": "23mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍金沙",
+		"size": "23mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "23mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "23mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "20mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶, QZS",
+		"size": "20mm",
+		"price" : "7.00",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "20mm",
+		"price" : "7.00",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "灰瑪瑙",
+		"size": "20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "閃光石",
+		"size": "20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍金沙, GDB",
+		"size": "20mm",
+		"price" : "5.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "綠東陵, AVG",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "紅東陵, AVR",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "新山玉, JDK",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "韓國玉",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "漢白玉",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石, SOB",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "BT"
+	}
+	],
+	"BFL084" : [
+	{
+		"stonename": "紅磚",
+		"size": "20x30mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "20x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "20x30mm",
+		"price" : "7.00",
+		"stock" : "39",
+		"officestock" : "20",
+		"CN" : "3"
+	},
+	{
+		"stonename": "海洋石, POC",
+		"size": "20x30mm",
+		"price" : "6.00",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "20x30mm",
+		"price" : "6.00",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "藍點石, SOB",
+		"size": "20x30mm",
+		"price" : "5.00",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "白安, ONW",
+		"size": "20x30mm",
+		"price" : "5.00",
+		"stock" : "98",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "白松, HOW",
+		"size": "20x30mm",
+		"price" : "5.00",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "紅瑪瑙",
+		"size": "20x30mm",
+		"price" : "6.00",
+		"stock" : "32",
+		"officestock" : "32",
+		"CN" : "3"
+	},
+	{
+		"stonename": "黃玉, CIT",
+		"size": "20x30mm",
+		"price" : "5.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "雪花",
+		"size": "20x30mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安, ONB",
+		"size": "20x30mm",
+		"price" : "6.00",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "黑線石",
+		"size": "20x30mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BFL215" :[
+	{
+		"stonename": "紫瑪瑙",
+		"size": "10x10mmmm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紫瑪瑙",
+		"size": "10x10mmmm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "10x10mmmm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "10x10mmmm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水草瑪瑙",
+		"size": "10x10mmmm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍金沙",
+		"size": "10x10mmmm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "10x10mmmm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "10x10mmmm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BFL503" : [
+	{
+		"stonename": "石榴石",
+		"size": "6mm",
+		"price" : "8.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紫晶",
+		"size": "6mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "6mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "6mm",
+		"price" : "2.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BLF504" : [
+	{
+		"stonename": "黑安 / 茶晶",
+		"size": "4+6/8+10mm",
+		"price" : "20.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BFL506" :[
+	{
+		"stonename": "粉晶",
+		"size": "8x10mm",
+		"price" : "2.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL022" : [
+	{
+		"stonename": "壓電黃晶",
+		"size": "10mm+4mm",
+		"price" : "8.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "新山玉",
+		"size": "10mm+4mm",
+		"price" : "5.00",
+		"stock" : "17",
+		"officestock" : "0",
+		"CN" : "10"
+	}
+	],
+	"BL025": [
+	{
+		"stonename": "粉晶 双心+4mmx2",
+		"size": "20x12+5mm",
+		"price" : "4.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "4"
+	},
+	{
+		"stonename": "七色石 双心+4mmx3",
+		"size": "20x12+5mm",
+		"price" : "4.50",
+		"stock" : "70",
+		"officestock" : "80",
+		"CN" : "4"
+	}
+	],
+	"BL030" : [
+	{
+		"stonename": "粉晶 (David Star)",
+		"size": "10x12mm",
+		"price" : "1.20",
+		"stock" : "100",
+		"officestock" : "150",
+		"CN" : "10"
+	}
+	],
+	"BL040" : [
+	{
+		"stonename": "虎眼, 26",
+		"size": "13x20mm",
+		"price" : "7.00",
+		"stock" : "26",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "紅瑪瑙",
+		"size": "13x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "13x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "綠東陵, AVG",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "橙東陵",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "20",
+		"officestock" : "30",
+		"CN" : "4"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "15",
+		"officestock" : "0",
+		"CN" : "4"
+	},
+	{
+		"stonename": "白松",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白安",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "13x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL041" :[
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "23x40mm",
+		"price" : "7.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "橙東陵",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉, CIT",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "12",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "白松",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白安/黑安",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石, PBL",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "23x40mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL042": [
+	{
+		"stonename": "染色松+黑線石",
+		"size": "23x40mm",
+		"price" : "8.50",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "黑安+黑線石",
+		"size": "23x40mm",
+		"price" : "8.50",
+		"stock" : "16",
+		"officestock" : "0",
+		"CN" : "AT"
+	}
+	],
+	"BL044" :[
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "10x20mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "橙東陵",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "10x20mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白安",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "10x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL046" :[
+	{
+		"stonename": "水晶",
+		"size": "20mm",
+		"price" : "8.00",
+		"stock" : "60",
+		"officestock" : "40",
+		"CN" : "4"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "20mm",
+		"price" : "8.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "橙東陵",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白松",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "30",
+		"officestock" : "20",
+		"CN" : "4"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	},
+	{
+		"stonename": "白安",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	},
+	{
+		"stonename": "黑安",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	},
+	{
+		"stonename": "黑線石",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	},
+	{
+		"stonename": "雪花",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "0"
+	}
+	],
+	"BL060" :[
+	{
+		"stonename": "黑安+水晶8",
+		"size": "17x24+3x6mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "97",
+		"CN" : "office"
+	},
+	{
+		"stonename": "黑安+水晶7",
+		"size": "17x24+3x6mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "50",
+		"CN" : "office"
+	}
+	],
+	"BL062" :[
+	{
+		"stonename": "粉晶+龍珠,水滴",
+		"size": "8mm",
+		"price" : "3.00",
+		"stock" : "80",
+		"officestock" : "80",
+		"CN" : "4"
+	}
+	],
+	"BL311" :[
+	{
+		"stonename": "黑安+ 白安",
+		"size": "8+18x40mm",
+		"price" : "8.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白松+染色松, HW2",
+		"size": "8+18x40mm",
+		"price" : "8.50",
+		"stock" : "42",
+		"officestock" : "0",
+		"CN" : "CS"
+	}
+	],
+	"BL312" :[
+	{
+		"stonename": "虎眼, TYE",
+		"size": "26x30mm",
+		"price" : "8.00",
+		"stock" : "133",
+		"officestock" : "0",
+		"CN" : "3"
+	},
+	{
+		"stonename": "淡紫晶, AML",
+		"size": "26x30mm",
+		"price" : "8.00",
+		"stock" : "112",
+		"officestock" : "0",
+		"CN" : "4"
+	},
+	{
+		"stonename": "紅瑪瑙, AGR",
+		"size": "26x30mm",
+		"price" : "7.00",
+		"stock" : "18",
+		"officestock" : "0",
+		"CN" : "1"
+	},
+	{
+		"stonename": "花瑪瑙, PFL",
+		"size": "26x30mm",
+		"price" : "7.00",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "2"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "26x30mm",
+		"price" : "7.00",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "1"
+	},
+	{
+		"stonename": "染色松, DHW",
+		"size": "26x30mm",
+		"price" : "7.00",
+		"stock" : "21",
+		"officestock" : "0",
+		"CN" : "1"
+	},
+	{
+		"stonename": "藍金沙石, GDB",
+		"size": "26x30mm",
+		"price" : "7.00",
+		"stock" : "49",
+		"officestock" : "0",
+		"CN" : "1"
+	},
+	{
+		"stonename": "白松, HOW",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "49",
+		"officestock" : "0",
+		"CN" : "5"
+	},
+	{
+		"stonename": "圖畫石, PPI",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "51",
+		"officestock" : "0",
+		"CN" : "2"
+	},
+	{
+		"stonename": "黑線石, PBL",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "63",
+		"officestock" : "0",
+		"CN" : "5"
+	},
+	{
+		"stonename": "黑安+ 白安, ON2",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "91",
+		"officestock" : "0",
+		"CN" : "3"
+	},
+	{
+		"stonename": "india agate, AGF",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "6",
+		"officestock" : "0",
+		"CN" : "5"
+	},
+	{
+		"stonename": "黑安",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "斑點",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石, POC",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "39",
+		"officestock" : "0",
+		"CN" : "5"
+	},
+	{
+		"stonename": "9牙紫晶, AMY",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "27",
+		"officestock" : "0",
+		"CN" : "4"
+	},
+	{
+		"stonename": "白安, ONW",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "21",
+		"officestock" : "0",
+		"CN" : "5"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "金沙, GDS",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "54",
+		"officestock" : "0",
+		"CN" : "2"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "26x30mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紫晶, AMY",
+		"size": "16x20mm",
+		"price" : "6.50",
+		"stock" : "44",
+		"officestock" : "0",
+		"CN" : "6"
+	},
+	{
+		"stonename": "水晶",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "淡紫晶 AML",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "7"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "80",
+		"officestock" : "0",
+		"CN" : "6"
+	},
+	{
+		"stonename": "波斯灣瑪瑙",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅瑪瑙, AGR",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "7"
+	},
+	{
+		"stonename": "7 Mixed Stone, S7M",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "55",
+		"officestock" : "0",
+		"CN" : "6"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍金沙石, GDB",
+		"size": "16x20mm",
+		"price" : "5.50",
+		"stock" : "152",
+		"officestock" : "0",
+		"CN" : "8"
+	},
+	{
+		"stonename": "金沙石, GDS",
+		"size": "16x20mm",
+		"price" : "5.50",
+		"stock" : "113",
+		"officestock" : "0",
+		"CN" : "6"
+	},
+	{
+		"stonename": "天然紅瑪瑙, CAR",
+		"size": "16x20mm",
+		"price" : "5.00",
+		"stock" : "69",
+		"officestock" : "0",
+		"CN" : "8"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "16x20mm",
+		"price" : "5.00",
+		"stock" : "120",
+		"officestock" : "0",
+		"CN" : "7"
+	}
+	],
+	"BL313" :[
+	{
+		"stonename": "紅,藍,黃三色虎眼, t3E",
+		"size": "16x25mm",
+		"price" : "4.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "紅,藍,黃三色虎眼",
+		"size": "11x25mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅,藍,黃三色虎眼",
+		"size": "11x25mm",
+		"price" : "2.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL327" : [
+	{
+		"stonename": "粉晶+松石",
+		"size": "14x18mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL329" :[
+	{
+		"stonename": "灰瑪瑙, AGL",
+		"size": "20x40+10mmx17x3",
+		"price" : "8.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "20x40+10mmx17x3",
+		"price" : "8.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "20x40+10mmx17x3",
+		"price" : "7.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "閃光石",
+		"size": "20x40+10mmx17x3",
+		"price" : "7.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍金沙石",
+		"size": "20x40+10mmx17x3",
+		"price" : "7.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "20x40+10mmx17x3",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "20x40+10mmx17x3",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "20x40+10mmx17x3",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白松",
+		"size": "20x40+10mmx17x3",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "綠東陵, AVG",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "紅東陵",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "韓國玉 /新山玉",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安, ONB",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "白安",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "20x40+10mmx17x3",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL544" :[
+	{
+		"stonename": "旦黃石+925",
+		"size": "8+25mm",
+		"price" : "3.20",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶 +925",
+		"size": "8+25mm",
+		"price" : "2.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL318" :[
+	{
+		"stonename": "FLR+FWP",
+		"size": "12x20mm",
+		"price" : "3.60",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL545" :[
+	{
+		"stonename": "紫玉",
+		"size": "8+15mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "8+15mm",
+		"price" : "3.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "漢白玉+亞馬遜, AMZ",
+		"size": "8+15mm",
+		"price" : "2.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "8+15mm",
+		"price" : "2.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BL546" : [
+	{
+		"stonename": "橙東陵",
+		"size": "10+35mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶+粉晶, QZR",
+		"size": "10+35mm",
+		"price" : "7.00",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "10+35mm",
+		"price" : "7.00",
+		"stock" : "100",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "White Onyx, ONW",
+		"size": "10+35mm",
+		"price" : "6.50",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "白松, HOW",
+		"size": "10+35mm",
+		"price" : "6.50",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "Labradourite, LAB",
+		"size": "10+35mm",
+		"price" : "6.50",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "Dyed Howlite",
+		"size": "10+35mm",
+		"price" : "6.50",
+		"stock" : "2",
+		"officestock" : "0",
+		"CN" : "10"
+	},
+	{
+		"stonename": "黃玉, CIT",
+		"size": "10+35mm",
+		"price" : "6.50",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "10+35mm",
+		"price" : "7.00",
+		"stock" : "2",
+		"officestock" : "0",
+		"CN" : "10"
+	}
+	],
+	"BCL069" : [
+	{
+		"stonename": "虎眼",
+		"size": "11x16mm",
+		"price" : "2.80",
+		"stock" : "200",
+		"officestock" : "250",
+		"CN" : "9"
+	}
+	],
+	"BLC023" :[
+	{
+		"stonename": "綠東陵, AVG",
+		"size": "20x30mm",
+		"price" : "4.50",
+		"stock" : "123",
+		"officestock" : "1",
+		"CN" : "ES"
+	},
+	{
+		"stonename": "水晶",
+		"size": "20x30mm",
+		"price" : "7.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "菊花石",
+		"size": "16x30mm",
+		"price" : "8.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "120",
+		"officestock" : "0",
+		"CN" : "ES"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "33",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "紅瑪瑙, AGR",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "波斯灣瑪瑙, AGS",
+		"size": "16x30mm",
+		"price" : "6.00",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "7 mixed Stone, S7M",
+		"size": "16x30mm",
+		"price" : "6.00",
+		"stock" : "17",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "16x30mm",
+		"price" : "5.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "藍金沙石",
+		"size": "16x30mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅紋",
+		"size": "16x30mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "亞馬遜",
+		"size": "16x30mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "金沙石, GDS",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "6",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "新山玉",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "韓國玉",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "105",
+		"officestock" : "0",
+		"CN" : "ES"
+	},
+	{
+		"stonename": "海洋石, POC",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "31",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "圖畫石",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "97",
+		"officestock" : "0",
+		"CN" : "ES"
+	},
+	{
+		"stonename": "染色松",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍石",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "52",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "117",
+		"officestock" : "0",
+		"CN" : "ES"
+	},
+	{
+		"stonename": "漢白玉",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石, PBL",
+		"size": "16x30mm",
+		"price" : "4.50",
+		"stock" : "44",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "3 kind of TYE",
+		"size": "18x27mm",
+		"price" : "6.00",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "白松",
+		"size": "19x21mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紫晶",
+		"size": "12x20mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "12x20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "12x20mm",
+		"price" : "4.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "12x20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "波斯灣瑪瑙, AGS",
+		"size": "12x20mm",
+		"price" : "4.00",
+		"stock" : "69",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "12x20mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "12x20mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "7 Mixed stone, S7M",
+		"size": "12x20mm",
+		"price" : "4.00",
+		"stock" : "57",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "3 Mixed stone",
+		"size": "12x20mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "閃光石 (進口), LAB",
+		"size": "12x20mm",
+		"price" : "4.00",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "亞馬遜",
+		"size": "12x20mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍金沙",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石, POC",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "33",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "彩瑩",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "綠東陵",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍石, DUM",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "105",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "金沙",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "檸檬黃色新山玉",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "新山玉",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "韓國玉",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "閃光石 -CHN, LAC",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "77",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "黑安, ONB",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "DS"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "12x20mm",
+		"price" : "3.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BLC026" : [
+	{
+		"stonename": "紫晶",
+		"size": "9x15mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "9x15mm",
+		"price" : "3.20",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "7 mixed stone",
+		"size": "9x15mm",
+		"price" : "3.20",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "綠東陵",
+		"size": "9x15mm",
+		"price" : "2.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "9x15mm",
+		"price" : "2.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "T3Y",
+		"size": "15x25mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "12x16mm",
+		"price" : "3.00",
+		"stock" : "200",
+		"officestock" : "250",
+		"CN" : "9"
+	},
+	{
+		"stonename": "T3Y",
+		"size": "12x16mm",
+		"price" : "3.00",
+		"stock" : "180",
+		"officestock" : "210",
+		"CN" : "9"
+	},
+	{
+		"stonename": "T3Y",
+		"size": "10x14mm",
+		"price" : "2.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BLC029" :[
+	{
+		"stonename": "紫水晶",
+		"size": "14x18mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "14x18mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "14x18mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "14x18mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "14x18mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "14x18mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "金沙石",
+		"size": "14x18mm",
+		"price" : "3.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "16x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "16x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅,藍虎眼,三色",
+		"size": "16x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "16x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "7 Mixed Stone",
+		"size": "16x20mm",
+		"price" : "4.50",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "8"
+	},
+	{
+		"stonename": "新山玉",
+		"size": "16x20mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "16x20mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "16x20mm",
+		"price" : "4.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "水晶",
+		"size": "20x24mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "20x24mm",
+		"price" : "6.50",
+		"stock" : "60",
+		"officestock" : "30",
+		"CN" : "8"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "20x24mm",
+		"price" : "5.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "7 Mixed stone",
+		"size": "20x24mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "20x24mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "20x24mm",
+		"price" : "4.50",
+		"stock" : "60",
+		"officestock" : "140",
+		"CN" : "8"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "20x24mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BLF017" :[
+	{
+		"stonename": "虎眼, TYE",
+		"size": "24x30",
+		"price" : "7.50",
+		"stock" : "88",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "紫晶, AMY",
+		"size": "24x30",
+		"price" : "7.50",
+		"stock" : "85",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "24x30",
+		"price" : "7.50",
+		"stock" : "88",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "白松, HOW",
+		"size": "24x30",
+		"price" : "7.00",
+		"stock" : "64",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "藍石, DUM",
+		"size": "24x30",
+		"price" : "7.00",
+		"stock" : "96",
+		"officestock" : "0",
+		"CN" : "BT"
+	}
+	],
+	"BLF018" :[
+	{
+		"stonename": "虎眼, TYE",
+		"size": "24x24x12mm",
+		"price" : "7.00",
+		"stock" : "189",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "24x24x12mm",
+		"price" : "6.50",
+		"stock" : "71",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "藍金沙石, GDB",
+		"size": "24x24x12mm",
+		"price" : "6.50",
+		"stock" : "12",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "雪花, OBS",
+		"size": "24x24x12mm",
+		"price" : "6.00",
+		"stock" : "57",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "綠東陵, AVG",
+		"size": "24x24x12mm",
+		"price" : "6.50",
+		"stock" : "122",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "藍石, DUM",
+		"size": "24x24x12mm",
+		"price" : "5.50",
+		"stock" : "28",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "金沙, GDS",
+		"size": "24x24x12mm",
+		"price" : "5.50",
+		"stock" : "28",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "藍點石, SOB",
+		"size": "24x24x12mm",
+		"price" : "5.50",
+		"stock" : "14",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "24x24x12mm",
+		"price" : "5.50",
+		"stock" : "45",
+		"officestock" : "104",
+		"CN" : "B車下後"
+	}
+	],
+	"BLF019" : [
+	{
+		"stonename": "虎眼 >-<",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑瑪瑙 >-<",
+		"size": "16x20mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石 >-<",
+		"size": "16x20mm",
+		"price" : "5.50",
+		"stock" : "27",
+		"officestock" : "0",
+		"CN" : "8"
+	},
+	{
+		"stonename": "紅紋 >-<",
+		"size": "16x20mm",
+		"price" : "5.50",
+		"stock" : "40",
+		"officestock" : "30",
+		"CN" : "9"
+	},
+	{
+		"stonename": "白松 >-<",
+		"size": "16x20mm",
+		"price" : "5.00",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "8"
+	},
+	{
+		"stonename": "藍石 >-<",
+		"size": "16x20mm",
+		"price" : "4.80",
+		"stock" : "40",
+		"officestock" : "70",
+		"CN" : "9"
+	},
+	{
+		"stonename": "黑安 >-<",
+		"size": "16x20mm",
+		"price" : "4.80",
+		"stock" : "60",
+		"officestock" : "80",
+		"CN" : "9"
+	},
+	{
+		"stonename": "豹皮 >-<",
+		"size": "16x20mm",
+		"price" : "4.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石 >-<",
+		"size": "16x20mm",
+		"price" : "4.80",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶 >-<",
+		"size": "16x20mm",
+		"price" : "4.80",
+		"stock" : "10",
+		"officestock" : "0",
+		"CN" : "9"
+	},
+	{
+		"stonename": "紅,藍,黃三色虎眼",
+		"size": "12x16mm",
+		"price" : "4.00",
+		"stock" : "50",
+		"officestock" : "40",
+		"CN" : "9"
+	}
+	],
+	"BLF023" :[
+	{
+		"stonename": "紅磚",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "橙東陵",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白安",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白松",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "海洋石",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑線石",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BLT501" : [
+	{
+		"stonename": "FRA 紅,藍,白",
+		"size": "6mmx3P",
+		"price" : "6.50",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "GER 紅,黄,茶",
+		"size": "6mmx3P",
+		"price" : "6.00",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "ITL 紅,綠,白",
+		"size": "6mmx3P",
+		"price" : "5.50",
+		"stock" : "48",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "IRE 橙,綠,白",
+		"size": "6mmx3P",
+		"price" : "5.50",
+		"stock" : "24",
+		"officestock" : "0",
+		"CN" : "BT"
+	}
+	],
+	"BLF029" : [
+	{
+		"stonename": "藍金沙石",
+		"size": "14x18mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "茶晶",
+		"size": "15x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "15x20mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "15x20mm",
+		"price" : "5.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "新山玉",
+		"size": "15x20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "15x20mm",
+		"price" : "4.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "20x24mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "虎眼",
+		"size": "20x24mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "灰瑪瑙",
+		"size": "20x24mm",
+		"price" : "7.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "天然紅瑪瑙",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍金沙石",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "亞馬遜",
+		"size": "20x24mm",
+		"price" : "5.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "8"
+	},
+	{
+		"stonename": "橙東陵",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "白松",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "雪花",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紅磚",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "粉晶",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "20x24mm",
+		"price" : "6.00",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BCL032" : [
+	{
+		"stonename": "天然紅瑪瑙, CAR",
+		"size": "22x30mm",
+		"price" : "5.50",
+		"stock" : "12",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "雪花, OBS",
+		"size": "22x30mm",
+		"price" : "4.50",
+		"stock" : "22",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "圖畫石, PPI",
+		"size": "22x30mm",
+		"price" : "4.50",
+		"stock" : "12",
+		"officestock" : "0",
+		"CN" : "CT"
+	}
+	],
+	"BCL311" :[
+	{
+		"stonename": "虎眼, TYE",
+		"size": "33x20mm",
+		"price" : "7.00",
+		"stock" : "53",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "白松, HOW",
+		"size": "33x20mm",
+		"price" : "5.50",
+		"stock" : "62",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "雪花, OBS",
+		"size": "33x20mm",
+		"price" : "5.50",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "AT"
+	},
+	{
+		"stonename": "黑線石, PBL",
+		"size": "33x20mm",
+		"price" : "5.50",
+		"stock" : "33",
+		"officestock" : "0",
+		"CN" : "AT"
+	}
+	],
+	"BFL057" :[
+	{
+		"stonename": "茶晶",
+		"size": "20x30x12mm",
+		"price" : "7.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "金沙",
+		"size": "20x30x12mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黃玉",
+		"size": "20x30x12mm",
+		"price" : "5.50",
+		"stock" : "31",
+		"officestock" : "0",
+		"CN" : "B車下後"
+	},
+	{
+		"stonename": "藍點石",
+		"size": "20x30x12mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	}
+	],
+	"BFL213" :[
+	{
+		"stonename": "藍石, DUM",
+		"size": "28x35mm",
+		"price" : "7.50",
+		"stock" : "42",
+		"officestock" : "0",
+		"CN" : "14"
+	},
+	{
+		"stonename": "黑安",
+		"size": "28x35mm",
+		"price" : "7.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "28x35mm",
+		"price" : "7.50",
+		"stock" : "88",
+		"officestock" : "0",
+		"CN" : "15"
+	},
+	{
+		"stonename": "紅磚, PRD",
+		"size": "28x35mm",
+		"price" : "7.50",
+		"stock" : "22",
+		"officestock" : "0",
+		"CN" : "15"
+	},
+	{
+		"stonename": "紅紋, RHO",
+		"size": "28x35mm",
+		"price" : "7.50",
+		"stock" : "27",
+		"officestock" : "0",
+		"CN" : "14"
+	},
+	{
+		"stonename": "綠邊石, KMB",
+		"size": "28x35mm",
+		"price" : "7.50",
+		"stock" : "91",
+		"officestock" : "0",
+		"CN" : "14"
+	}
+	],
+	"BL307" :[
+	{
+		"stonename": "虎眼, TYE",
+		"size": "16x30mm",
+		"price" : "7.00",
+		"stock" : "58",
+		"officestock" : "0",
+		"CN" : "CS"
+	},
+	{
+		"stonename": "花紅, PBR",
+		"size": "16x30mm",
+		"price" : "6.00",
+		"stock" : "115",
+		"officestock" : "0",
+		"CN" : "CS"
+	},
+	{
+		"stonename": "海洋石, POC",
+		"size": "16x30mm",
+		"price" : "6.00",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "CS"
+	},
+	{
+		"stonename": "雪花, OBS",
+		"size": "16x30mm",
+		"price" : "6.00",
+		"stock" : "114",
+		"officestock" : "0",
+		"CN" : "CS"
+	}
+	],
+	"BL404" : [
+	{
+		"stonename": "AMY",
+		"size": "12x28x14mm",
+		"price" : "6.50",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "PMK",
+		"size": "12x28x14mm",
+		"price" : "6.50",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "LAB",
+		"size": "12x28x14mm",
+		"price" : "6.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "AGF",
+		"size": "12x28x14mm",
+		"price" : "6.50",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "OBS",
+		"size": "12x28x14mm",
+		"price" : "6.50",
+		"stock" : "65",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "AVP",
+		"size": "12x28x14mm",
+		"price" : "6.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BT"
+	}
+	],
+	"BL408" :[
+	{
+		"stonename": "粉晶, QZR",
+		"size": "12x28x14mm",
+		"price" : "5.50",
+		"stock" : "20",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "白松",
+		"size": "12x28x14mm",
+		"price" : "5.50",
+		"stock" : "50",
+		"officestock" : "30",
+		"CN" : "B車上後"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "12x28x14mm",
+		"price" : "7.00",
+		"stock" : "21",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "綠東陵, AVG",
+		"size": "12x28x14mm",
+		"price" : "5.50",
+		"stock" : "21",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "彩瑩",
+		"size": "12x28x14mm",
+		"price" : "5.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "紫瑩, FLR",
+		"size": "12x28x14mm",
+		"price" : "5.50",
+		"stock" : "17",
+		"officestock" : "0",
+		"CN" : "BT"
+	}
+	],
+	"BL802" :[
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "25x30mm",
+		"price" : "7.00",
+		"stock" : "16",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "染色瑪瑙, AGP",
+		"size": "25x30mm",
+		"price" : "7.00",
+		"stock" : "22",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "染色松, DHW",
+		"size": "25x30mm",
+		"price" : "7.00",
+		"stock" : "67",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "25x30mm",
+		"price" : "6.00",
+		"stock" : "14",
+		"officestock" : "0",
+		"CN" : "CT"
+	}
+	],
+	"BLF319" :[
+	{
+		"stonename": "虎眼, TYE",
+		"size": "26x30x12mm",
+		"price" : "8.00",
+		"stock" : "137",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "紅瑪瑙, AGR",
+		"size": "26x30x12mm",
+		"price" : "8.00",
+		"stock" : "39",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "26x30x12mm",
+		"price" : "7.00",
+		"stock" : "103",
+		"officestock" : "0",
+		"CN" : "12"
+	},
+	{
+		"stonename": "染色松",
+		"size": "26x30x12mm",
+		"price" : "7.00",
+		"stock" : "56",
+		"officestock" : "0",
+		"CN" : "5"
+	},
+	{
+		"stonename": "藍金沙石, GDB",
+		"size": "26x30x12mm",
+		"price" : "7.00",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "9"
+	},
+	{
+		"stonename": "金沙石, GDS",
+		"size": "26x30x12mm",
+		"price" : "7.00",
+		"stock" : "90",
+		"officestock" : "0",
+		"CN" : "10"
+	},
+	{
+		"stonename": "海洋石, POC",
+		"size": "26x30x12mm",
+		"price" : "6.50",
+		"stock" : "79",
+		"officestock" : "0",
+		"CN" : "12"
+	},
+	{
+		"stonename": "黑安+白安",
+		"size": "26x30x12mm",
+		"price" : "6.50",
+		"stock" : "0",
+		"officestock" : "0",
+		"CN" : "NA"
+	},
+	{
+		"stonename": "黑安, ONB",
+		"size": "26x30x12mm",
+		"price" : "6.50",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "10"
+	},
+	{
+		"stonename": "白安",
+		"size": "26x30x12mm",
+		"price" : "6.50",
+		"stock" : "4",
+		"officestock" : "0",
+		"CN" : "5"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "26x30x12mm",
+		"price" : "6.50",
+		"stock" : "46",
+		"officestock" : "0",
+		"CN" : "9"
+	},
+	{
+		"stonename": "黑耀石, OBK",
+		"size": "26x30x12mm",
+		"price" : "6.50",
+		"stock" : "78",
+		"officestock" : "0",
+		"CN" : "9"
+	},
+	{
+		"stonename": "旦黃石, PMK",
+		"size": "16x20mm",
+		"price" : "5.80",
+		"stock" : "64",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "虎眼, TYE",
+		"size": "16x20mm",
+		"price" : "5.80",
+		"stock" : "146",
+		"officestock" : "0",
+		"CN" : "CT"
+	},
+	{
+		"stonename": "粉晶, QZR",
+		"size": "16x20mm",
+		"price" : "4.80",
+		"stock" : "158",
+		"officestock" : "0",
+		"CN" : "CT"
+	}
+	],
+	"BLT503" :[
+	{
+		"stonename": "GER 紅,黄,茶",
+		"size": "6mmx3L",
+		"price" : "6.00",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "A車上後"
+	},
+	{
+		"stonename": "FRA 紅,藍,白",
+		"size": "6mmx3L",
+		"price" : "6.50",
+		"stock" : "76",
+		"officestock" : "0",
+		"CN" : "A車上後"
+	},
+	{
+		"stonename": "ITL 紅,綠,白",
+		"size": "6mmx3L",
+		"price" : "5.50",
+		"stock" : "67",
+		"officestock" : "0",
+		"CN" : "A車上後"
+	},
+	{
+		"stonename": "IRE 橙,綠,白",
+		"size": "6mmx3L",
+		"price" : "5.00",
+		"stock" : "18",
+		"officestock" : "0",
+		"CN" : "A車上後"
+	}
+	],
+	"BL230" :[
+	{
+		"stonename": "(AMY-FLR-QZR), S3M",
+		"size": "24x27x8mm",
+		"price" : "7.00",
+		"stock" : "80",
+		"officestock" : "0",
+		"CN" : "13"
+	},
+	{
+		"stonename": "白+染色松, HW2",
+		"size": "24x27x8mm",
+		"price" : "7.00",
+		"stock" : "84",
+		"officestock" : "0",
+		"CN" : "13"
+	}
+	],
+	"BL322" :[
+	{
+		"stonename": "虎石/旦黃石",
+		"size": "30x40mm",
+		"price" : "8.50",
+		"stock" : "90",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	},
+	{
+		"stonename": "綠眼石/紅東陵",
+		"size": "30x40mm",
+		"price" : "7.00",
+		"stock" : "90",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BCL013" :[
+	{
+		"stonename": "黑安",
+		"size": "25x24mm",
+		"price" : "4.80",
+		"stock" : "70",
+		"officestock" : "0",
+		"CN" : "BT"
+	},
+	{
+		"stonename": "7 Mix stone, S7M",
+		"size": "10x12",
+		"price" : "4.80",
+		"stock" : "100",
+		"officestock" : "0",
+		"CN" : "BT"
+	}
+	],
+	"BL443" :[
+	{
+		"stonename": "QZW / HEM",
+		"size": "40mm/6",
+		"price" : "6.20",
+		"stock" : "51",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL444" :[
+	{
+		"stonename": "Tiger / HEM",
+		"size": "40mm/6",
+		"price" : "6.20",
+		"stock" : "18",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL445" :[
+	{
+		"stonename": "AVG / HEM",
+		"size": "40mm/6",
+		"price" : "5.80",
+		"stock" : "17",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL446":[
+	{
+		"stonename": "AVR / HEM",
+		"size": "40mm/6",
+		"price" : "5.80",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL447" :[
+	{
+		"stonename": "AVR / HEM",
+		"size": "40mm/6",
+		"price" : "5.80",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL448" :[
+	{
+		"stonename": "QZR / HEM",
+		"size": "40mm/6",
+		"price" : "5.80",
+		"stock" : "21",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL449" :[
+	{
+		"stonename": "PRD / HEM",
+		"size": "40mm/6",
+		"price" : "5.80",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL453" :[
+	{
+		"stonename": "QZW / AVG",
+		"size": "40mm/6",
+		"price" : "7.50",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL458" :[
+	{
+		"stonename": "QZR / QZR",
+		"size": "40mm/6",
+		"price" : "7.50",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BL459" :[
+	{
+		"stonename": "QZR / QZR",
+		"size": "40mm/6",
+		"price" : "7.50",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "A車上前"
+	}
+	],
+	"BLL07" :[
+	{
+		"stonename": "AVG",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "35",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "PPI",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "5",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "QZR",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "30",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "AGR",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "PRD",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "50",
+		"officestock" : "40",
+		"CN" : "11"
+	},
+	{
+		"stonename": "TYE",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "AMY",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "65",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "QRU",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "LAP",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "60",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "TQI",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "40",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "ONB",
+		"size": "6mm",
+		"price" : "2.00",
+		"stock" : "50",
+		"officestock" : "35",
+		"CN" : "11"
+	}
+	],
+	"BLL23" :[
+	{
+		"stonename": "AVG",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "50",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "PPI",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "25",
+		"officestock" : "0",
+		"CN" : "11"
+	},
+	{
+		"stonename": "QZR",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "25",
+		"officestock" : "50",
+		"CN" : "11"
+	},
+	{
+		"stonename": "AGR",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "30",
+		"officestock" : "50",
+		"CN" : "11"
+	},
+	{
+		"stonename": "PRD",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "30",
+		"officestock" : "50",
+		"CN" : "11"
+	},
+	{
+		"stonename": "TYE",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "50",
+		"officestock" : "25",
+		"CN" : "11"
+	},
+	{
+		"stonename": "AMY",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "50",
+		"officestock" : "20",
+		"CN" : "11"
+	},
+	{
+		"stonename": "QRU",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "50",
+		"officestock" : "50",
+		"CN" : "11"
+	},
+	{
+		"stonename": "LAP",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "50",
+		"officestock" : "25",
+		"CN" : "11"
+	},
+	{
+		"stonename": "ONB",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "20",
+		"officestock" : "50",
+		"CN" : "11"
+	},
+	{
+		"stonename": "TQI",
+		"size": "4mm",
+		"price" : "6.00",
+		"stock" : "50",
+		"officestock" : "5",
+		"CN" : "11"
+	}
+	]
+}
